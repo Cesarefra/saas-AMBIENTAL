@@ -16,9 +16,7 @@ export interface InspectionRecord {
   status: StatusType;
   observation: string;
   locationActual?: string;
-  photoFile?: File;
-  photoPreview?: string;
-  photoUrl?: string; // para cuando ya se subió
+  photos?: { file: File; preview: string }[];
 }
 
 interface InspectionTableProps {
@@ -45,10 +43,18 @@ export function InspectionTable({
   const fileInputRefs = useRef<Record<string, HTMLInputElement | null>>({});
 
   const handlePhotoCapture = (id: string, e: React.ChangeEvent<HTMLInputElement>) => {
-    const file = e.target.files?.[0];
-    if (file) {
-      const previewUrl = URL.createObjectURL(file);
-      onUpdateRecord(id, { photoFile: file, photoPreview: previewUrl });
+    const files = e.target.files;
+    if (files && files.length > 0) {
+      const newPhotos = Array.from(files).map(file => ({
+        file,
+        preview: URL.createObjectURL(file)
+      }));
+      const existing = records[id]?.photos || [];
+      onUpdateRecord(id, { photos: [...existing, ...newPhotos] });
+    }
+    // reset input so the same file could be selected again if needed
+    if (fileInputRefs.current[id]) {
+      fileInputRefs.current[id]!.value = '';
     }
   };
 
@@ -56,44 +62,55 @@ export function InspectionTable({
     fileInputRefs.current[id]?.click();
   };
 
-  const removePhoto = (id: string) => {
-    onUpdateRecord(id, { photoFile: undefined, photoPreview: undefined, photoUrl: undefined });
+  const removePhoto = (recordId: string, indexToRemove: number) => {
+    const existing = records[recordId]?.photos;
+    if (existing) {
+      const newPhotos = existing.filter((_, idx) => idx !== indexToRemove);
+      onUpdateRecord(recordId, { photos: newPhotos });
+    }
   };
 
   const PhotoCaptureUI = ({ id }: { id: string }) => {
     const record = records[id];
+    const photos = record?.photos || [];
+
     return (
-      <div className="mt-2 text-center">
+      <div className="mt-2 space-y-2">
         <input
           type="file"
           accept="image/*"
-          capture="environment"
+          multiple
           className="hidden"
           ref={(el) => { fileInputRefs.current[id] = el; }}
           onChange={(e) => handlePhotoCapture(id, e)}
         />
-        {record?.photoPreview ? (
-          <div className="relative inline-block w-20 h-20 rounded-md overflow-hidden border border-slate-200 group">
-            <img src={record.photoPreview} alt="Evidencia" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-2">
-              <button 
-                onClick={() => removePhoto(id)}
-                className="p-1.5 bg-white rounded-full text-rose-600 hover:bg-rose-50 transition-colors"
-                title="Eliminar Foto"
-              >
-                <Trash2 className="w-3 h-3" />
-              </button>
-            </div>
+        
+        {photos.length > 0 && (
+          <div className="flex flex-wrap gap-2">
+            {photos.map((photo, idx) => (
+              <div key={idx} className="relative inline-block w-16 h-16 rounded-md overflow-hidden border border-slate-200 group">
+                <img src={photo.preview} alt={`Evidencia ${idx + 1}`} className="w-full h-full object-cover" />
+                <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                  <button 
+                    onClick={() => removePhoto(id, idx)}
+                    className="p-1 bg-white rounded-full text-rose-600 hover:bg-rose-50 transition-colors shadow-sm"
+                    title="Eliminar Foto"
+                  >
+                    <Trash2 className="w-3 h-3" />
+                  </button>
+                </div>
+              </div>
+            ))}
           </div>
-        ) : (
-          <button 
-            onClick={() => triggerFileInput(id)}
-            className="w-full flex items-center justify-center gap-1.5 p-1.5 text-xs text-blue-600 bg-blue-50 border border-blue-200 border-dashed rounded-md hover:bg-blue-100 transition-colors"
-          >
-            <Camera className="w-3 h-3" />
-            <span>Evidencia</span>
-          </button>
         )}
+
+        <button 
+          onClick={() => triggerFileInput(id)}
+          className="w-full flex items-center justify-center gap-1.5 p-1.5 text-xs text-blue-600 bg-blue-50 border border-blue-200 border-dashed rounded-md hover:bg-blue-100 transition-colors"
+        >
+          <Camera className="w-3 h-3" />
+          <span>{photos.length > 0 ? 'Añadir más fotos' : 'Añadir Evidencia'}</span>
+        </button>
       </div>
     );
   };

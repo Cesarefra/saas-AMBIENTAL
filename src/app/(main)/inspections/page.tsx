@@ -78,20 +78,27 @@ export default function InspectionsPage() {
       const resultsToInsert = [];
       
       for (const [itemId, record] of Object.entries(records)) {
-        let photo_url = null;
+        let photo_url: string | null = null;
         
-        if (record.photoFile) {
-          const fileExt = record.photoFile.name.split('.').pop();
-          const fileName = `${inspection.id}/${itemId}_${Date.now()}.${fileExt}`;
-          const { error: uploadError } = await supabase.storage
-            .from('inspection_evidence')
-            .upload(fileName, record.photoFile);
-            
-          if (!uploadError) {
-            const { data: { publicUrl } } = supabase.storage
+        if (record.photos && record.photos.length > 0) {
+          const uploadedUrls: string[] = [];
+          for (let i = 0; i < record.photos.length; i++) {
+            const photo = record.photos[i];
+            const fileExt = photo.file.name.split('.').pop();
+            const fileName = `${inspection.id}/${itemId}_${i}_${Date.now()}.${fileExt}`;
+            const { error: uploadError } = await supabase.storage
               .from('inspection_evidence')
-              .getPublicUrl(fileName);
-            photo_url = publicUrl;
+              .upload(fileName, photo.file);
+              
+            if (!uploadError) {
+              const { data: { publicUrl } } = supabase.storage
+                .from('inspection_evidence')
+                .getPublicUrl(fileName);
+              uploadedUrls.push(publicUrl);
+            }
+          }
+          if (uploadedUrls.length > 0) {
+            photo_url = uploadedUrls.join(',');
           }
         }
         
