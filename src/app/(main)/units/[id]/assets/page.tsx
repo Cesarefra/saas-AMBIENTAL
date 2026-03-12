@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
-import { assetsService } from '@/features/assets/services/assetsService';
+import { getCriticalAssets } from '@/features/assets/services/assetsService';
 import { AssetInventory } from '@/features/assets/components/AssetInventory';
+import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
 
@@ -12,7 +13,7 @@ export default async function AssetsPage({ params }: PageProps) {
     const { id } = await params;
 
     try {
-        const assets = await assetsService.getCriticalAssets(id);
+        const assets = await getCriticalAssets(id);
 
         return (
             <div className="max-w-5xl mx-auto p-6 space-y-8">
@@ -21,9 +22,9 @@ export default async function AssetsPage({ params }: PageProps) {
                         <h1 className="text-2xl font-bold text-slate-800">Activos Críticos y Mantenimiento</h1>
                         <p className="text-slate-500">Unidad Fiscalizable ID: {id}</p>
                     </div>
-                    <button className="text-sm text-blue-600 font-medium hover:underline">
+                    <Link href="/dashboard" className="text-sm text-blue-600 font-medium hover:underline">
                         &larr; Volver al Dashboard
-                    </button>
+                    </Link>
                 </header>
 
                 <section>

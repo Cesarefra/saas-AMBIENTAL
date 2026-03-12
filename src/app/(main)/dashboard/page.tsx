@@ -1,12 +1,13 @@
 import { Suspense } from 'react';
-import { complianceService } from '@/features/compliance/services/complianceService';
+import { getFiscalizableUnits } from '@/features/compliance/services/complianceService';
 import { ComplianceDashboard } from '@/features/compliance/components/ComplianceDashboard';
+import { DashboardActions } from '@/features/compliance/components/DashboardActions';
 
 export const dynamic = 'force-dynamic';
 
 export default async function DashboardPage() {
   // Fetch units server-side
-  const units = await complianceService.getFiscalizableUnits();
+  const units = await getFiscalizableUnits();
 
   return (
     <div className="min-h-screen bg-slate-50">
@@ -32,14 +33,7 @@ export default async function DashboardPage() {
             <h2 className="text-2xl font-bold text-slate-900">Fiscalización Ambiental (OEFA)</h2>
             <p className="text-slate-600 mt-1">Estado de cumplimiento por Unidad Fiscalizable.</p>
           </div>
-          <div className="flex gap-3">
-            <button className="px-4 py-2 bg-white border border-slate-200 rounded-lg text-slate-600 hover:bg-slate-50 text-sm font-medium transition-colors">
-              Descargar Informe Global
-            </button>
-            <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 text-sm font-medium transition-colors shadow-sm shadow-blue-200">
-              Nuevo Registro
-            </button>
-          </div>
+          <DashboardActions />
         </div>
 
         {/* Units Grid */}

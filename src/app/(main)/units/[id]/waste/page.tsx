@@ -1,7 +1,8 @@
 import { Suspense } from 'react';
-import { wasteService } from '@/features/waste/services/wasteService';
+import { getWasteLogs } from '@/features/waste/services/wasteService';
 import { WasteDashboard } from '@/features/waste/components/WasteDashboard';
 import { notFound } from 'next/navigation';
+import Link from 'next/link';
 
 export const dynamic = 'force-dynamic';
 
@@ -13,7 +14,7 @@ export default async function WastePage({ params }: PageProps) {
     const { id } = await params;
 
     try {
-        const logs = await wasteService.getWasteLogs(id);
+        const logs = await getWasteLogs(id);
 
         return (
             <div className="max-w-5xl mx-auto p-6 space-y-8">
@@ -22,9 +23,9 @@ export default async function WastePage({ params }: PageProps) {
                         <h1 className="text-2xl font-bold text-slate-800">Gestión de Residuos Sólidos</h1>
                         <p className="text-slate-500">Unidad Fiscalizable ID: {id}</p>
                     </div>
-                    <button className="text-sm text-blue-600 font-medium hover:underline">
+                    <Link href="/dashboard" className="text-sm text-blue-600 font-medium hover:underline">
                         &larr; Volver al Dashboard
-                    </button>
+                    </Link>
                 </header>
 
                 <section>

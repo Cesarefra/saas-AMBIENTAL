@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { WasteLog, WasteType } from '../types';
-import { wasteService } from '../services/wasteService';
+import { createWasteLog } from '../services/wasteService';
 
 export function WasteDashboard({ unitId, initialLogs }: { unitId: string, initialLogs: WasteLog[] }) {
     const [logs, setLogs] = useState<WasteLog[]>(initialLogs);
@@ -17,7 +17,7 @@ export function WasteDashboard({ unitId, initialLogs }: { unitId: string, initia
         e.preventDefault();
         setLoading(true);
         try {
-            const newLog = await wasteService.createWasteLog({
+            const newLog = await createWasteLog({
                 unidad_id: unitId,
                 fecha_generacion: new Date().toISOString(),
                 tipo: type,
@@ -95,9 +95,9 @@ export function WasteDashboard({ unitId, initialLogs }: { unitId: string, initia
                                     {new Date(log.fecha_generacion).toLocaleDateString()}
                                 </td>
                                 <td className="px-6 py-4 whitespace-nowrap">
-                                    <span className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${log.type === 'PELIGROSO' ? 'bg-red-100 text-red-800' : 'bg-green-100 text-green-800'
+                                    <span className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${log.tipo === 'PELIGROSO' ? 'bg-red-100 text-red-800' : 'bg-green-100 text-green-800'
                                         }`}>
-                                        {log.type}
+                                        {log.tipo}
                                     </span>
                                 </td>
                                 <td className="px-6 py-4 text-sm text-slate-500">{log.descripcion || '-'}</td>

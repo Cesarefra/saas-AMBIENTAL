@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { FiscalizableUnit, ComplianceDashboardData } from '../types';
-import { complianceService } from '../services/complianceService';
+import { getDashboardData } from '../services/complianceService';
 
 export function ComplianceDashboard({ unitId }: { unitId: string }) {
     const [data, setData] = useState<ComplianceDashboardData | null>(null);
@@ -12,7 +12,7 @@ export function ComplianceDashboard({ unitId }: { unitId: string }) {
     useEffect(() => {
         async function load() {
             try {
-                const dashboardData = await complianceService.getDashboardData(unitId);
+                const dashboardData = await getDashboardData(unitId);
                 setData(dashboardData);
             } catch (error) {
                 console.error("Failed to load dashboard", error);

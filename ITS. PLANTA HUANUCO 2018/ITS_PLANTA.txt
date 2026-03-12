@@ -1,0 +1,1168 @@
+INFORME TÉCNICO SUSTENTATORIO (ITS)
+PROYECTO: MODIFICACIÓN Y AMPLIACION DE UNA PLANTA ENVASADORA DE GLP
+ZETA GAS ANDINO S.A.
+Ubicación: Carretera Aeropuerto Km 4.2. Colpa Baja, Distrito de Huánuco, Provincia de Huánuco y Departamento de Huánuco.  
+HUANUCO – HUANUCO – PERÚ 
+Febrero 2018
+INFORME TÉCNICO SUSTENTATORIO (ITS)
+PROYECTO: MODIFICACIÓN Y AMPLIACIÓN DE UNA PLANTA ENVASADORA DE GAS LICUADO DE PETROLEO GLP 
+En base a lo establecido en la Resolución Ministerial N° 159-2015-MEM/DM, señala que el Artículo 40° del Reglamento para la Protección Ambiental en las Actividades de Hidrocarburos aprobado mediante Decreto Supremo N° 039-2014-EM, habilita la modificación de las características o adición de componentes de las actividades de hidrocarburos y aquellos vinculados, así como las mejoras tecnológicas, siempre que en conjunto impliquen impactos ambientales negativos no significativos.
+Para dar cumplimiento a lo establecido en el Numeral 3 del Anexo N° 1 de los Criterios Técnicos para la Evaluación de Modificaciones, Ampliaciones de Componentes y de Mejoras Tecnológicas de los Impactos No Significativos; en el presente informe se evalúa los impactos y se concluye que, en ambos casos, tanto el PMA aprobado como el ITS, se muestra que son impactos ambientales negativos no significativos, ya que sus impactos son considerados leves.
+Así mismo, en el apartado 4.1 del Numeral 4 del Anexo N° 1 de la referida Resolución Ministerial, se señala que los Titulares de esta actividad podrán solicitar la evaluación de sus ITS para todas aquellas modificaciones, ampliaciones o mejoras tecnológicas, así mismo para el reemplazo de tanques, equipos o instalaciones, que se realicen en sus establecimientos, referidos con la venta al público de combustibles líquidos, gas licuado de petróleo de uso automotor (GLP), gas natural vehicular (GNV), gas natural comprimido (GNC) y plantas envasadoras de GLP.
+En el presente Proyecto se propone lo siguiente:
+Reducir el área del terreno actual de 5000.00 a 4167.86 m2. Es necesario aclarar que el área de 5,000 m2 ya fue reducida a 4,167.86 m2 para dar lugar a la construcción de un gasocentro de GLP actualmente operando.  
+Se construirá una puerta adicional para ingreso y salida vehicular a la Planta Envasadora. 
+La actual oficina administrativa será demolida y se construirá otro edificio administrativo donde se ubicarán las oficinas de contabilidad, recepción cuarta de conteo, sala de capacitación y reuniones y servicios higiénicos. 
+Instalación de 01 tanque nuevo adicional N° 2 de 13,900 galones que almacenará Gas Licuado de Petróleo GLP con lo cual la planta continuará operando con una capacidad total de almacenamiento de 23,900 galones de GLP. 
+El cuarto de bombas permanecerá en el mismo lugar. El cuarto del grupo electrógeno y cuarto de máquinas serán reubicados. El cuarto de tableros eléctricos permanecerá en el mismo lugar. 
+Definido nuestro objetivo, pasamos a desarrollar cada uno de los ítems del Anexo N° 2 de la Resolución Ministerial N° 159-2015-MEM/DM.
+ANEXO N° 2
+CRITERIOS TÉCNICOS DE CONTENIDO DEL INFORME TÉCNICO SUSTENTATORIO (ITS), PARA LAS ACTIVIDADES DE COMERCIALIZACIÓN A TRAVÉS DE ESTABLECIMIENTOS DE VENTA AL PÚBLICO DE HIDROCARBUROS
+DATOS GENERALES
+NOMBRE DEL PROYECTO
+Modificación y Ampliación de la Planta envasadora de Gas Licuado de Petróleo GLP   
+1.2 NOMBRE DEL TITULAR O PROPONENTE
+ZETA GAS ANDINO S.A 
+REPRESENTANTE LEGAL
+MIGUEL MONGE ALONSO 
+En el Anexo N° 01 se adjunta la Vigencia de Poder del Representante Legal de la Planta Envasadora.  
+DATOS DE LOS PROFESIONALES  
+Cuadro N° 1.-  Datos de los Profesionales que elaboraron el Proyecto
+NOMBRE
+CIP / CAP
+ESPECIALIDAD
+FIRMAS
+Rolando  Agüero Murillo
+99878
+Ingeniero Mecánico
+William Pedro Raymondi Quispe
+49935
+Ingeniero Petroquímico – Ambientalista
+En el Anexo N° 02 se adjunta el Curriculum Vitae y Certificado de habilidad de los profesionales.
+UBICACIÓN 
+La Planta Envasadora se encuentra ubicada en la Carretera Aeropuerto Km 4.2 Colpa Baja, Distrito de Huánuco, Provincia de Huánuco y Departamento de Huánuco.
+La Planta tiene la siguiente manera con las siguientes coordenadas U.T.M.  Sistema (WGS-84)  
+Cuadro N° 2.-  Coordenadas UTM SISTEMA (WGS-84)
+El área de la Planta es:
+Terreno Existente:5,000.00 m2
+MARCO LEGAL
+Decreto Supremo N° 039-2014-EM “Reglamento para la Protección Ambiental en las Actividades de Hidrocarburos”, en el Artículo 40° regula la presentación del Informe Técnico Sustentatorio (ITS) para las Modificaciones de Componentes, Ampliaciones de las Actividades de Hidrocarburos y Mejoras Tecnológicas con Impactos No Significativos.
+Resolución Ministerial N° 159-2015-MEM/DM “Criterios Técnicos para la Evaluación de Modificaciones, Ampliaciones de Componentes y de Mejoras Tecnológicas con Impactos No Significativos, respecto a Actividades de Hidrocarburos que cuenten con Certificación Ambiental”.
+ANTECEDENTES
+La Planta Envasadora de GLP, cuenta con instalaciones para almacenamiento, recepción, envasado, almacenamiento y despacho de cilindros de GLP la mismas que cuenta con el registro de hidrocarburos de OSINERGMIN N° 3197-070-240912. 
+La Planta Envasadora de GLP cuenta con un Plan de Manejo Ambiental (PMA) como Instrumento de Gestión Ambiental (IGA) aprobado y vigente para Planta Envasadora de G.L.P con Resolución Directoral Regional N° 029-2008-GR HUÁNUCO/DREMH de la Dirección Regional de Energía y Minas – Gobierno Regional de Huánuco con fecha 31 de Diciembre del 2008.
+CARACTERÍSTICAS DEL PROYECTO CON IGA APROBADO
+2,1. DESCRIPCIÓN DEL ÁREA DE INFLUENCIA DEL PROYECTO CON LOS COMPONENTES APROBADOS EN SU IGA, acompañado de un mapa y/o plano debidamente georeferenciado (Coordenadas UTM WGS 84)
+El área de influencia se ha delimitado en un área de 50.0 m. a la redonda de la Planta. 
+En la zona del Proyecto, no existen áreas naturales protegidas.
+El área del Proyecto está ubicada en una zona rural, como lo señalan los Certificados de Zonificación y Sección Vial. 
+En el Anexo N° 03 se adjunta los documentos de Osinergmin y la Resolución del IGA (PMA) aprobado y Certificado de zonificación.
+El área actual de la planta es 5,000.00 m2 
+El perímetro es: 301.74 m 
+Cuadro N° 3.-  Datos Técnicos
+Zona de Almacenamiento de Combustibles GLP.
+N° de Tanque
+Compartimiento
+Producto
+Capacidad de Almacenamiento
+1
+1
+GLP
+10,000
+Capacidad Total de Combustibles Líquidos
+10,000 galones
+Plataforma de Envasado y Despacho. -
+Es la plataforma donde se encuentran las instalaciones para el envasado de cilindros de 5 Kg, 10 Kg, 15 Kg y 45 Kg., y las respectivas balanzas para el peso correcto y donde también se encuentra instalado una (01) cabina de pintado.
+En esta plataforma también se realiza el almacenamiento de los cilindros llenos de GLP y el despacho de los cilindros a los vehículos de transporte repartidores
+Plataforma de Mantenimiento de Cilindros. -
+Es el área en la cual se lleva a cabo la inspección y reparación de los cilindros.
+Zona de Circulación y Estacionamiento. -
+El Estacionamiento y la zona de circulación están debidamente señalizadas para que los vehículos que ingresan y salen de la Planta lo hagan con seguridad, lo mismo que el camión tanque (granelero) que regularmente abastece de GLP a la Planta.
+Zona Administrativa. -
+Actualmente se cuenta con una Oficina Administrativa donde se ubican las oficinas de contabilidad, recepción, cuarto de conteo, sala de reuniones y servicios higiénicos. 
+ Zona de Equipos Auxiliares. -
+Cuenta con cuarto de bombas, grupo electrógeno, cuarto de máquinas y cuarto de tableros eléctricos.  
+PROYECTO DE MODIFICACIÓN, AMPLIACIÓN Y/O UNA MEJORA TECNOLÓGICA MEDIANTE EL ITS
+OBJETIVO Y ALCANCE
+La modificación a realizarse corresponde a una necesidad de demanda comercial, con el objetivo de abastecer de gas doméstico GLP al distrito de Huánuco y a los distritos vecinos; y con el compromiso de establecer las medidas de implementación de los Planes de Manejo Ambiental para la protección del medio ambiente.
+Reducir el área del terreno actual de 5000.00 a 4167.86 m2. Es necesario aclarar que el área de 5,000 m2 ya fue reducida a 4,167.86 m2 para dar lugar a la construcción de un gasocentro de GLP actualmente operando.  
+Se contará con una puerta adicional para ingreso y salida vehicular a la Planta Envasadora. 
+La actual oficina administrativa será demolida y se construirá otro edificio administrativo donde se ubicarán las oficinas de contabilidad, recepción cuarta de conteo, sala de capacitación y reuniones y servicios higiénicos. 
+Instalación de 01 tanque nuevo adicional N° 2 de 13,900 galones que almacenará Gas Licuado de Petróleo GLP con lo cual la planta continuará operando con una capacidad total de almacenamiento de 23,900 galones de GLP. 
+El cuarto de bombas permanecerá en el mismo lugar. El cuarto del grupo electrógeno y cuarto de máquinas serán reubicados. El cuarto de tableros eléctricos permanecerá en el mismo lugar. 
+SUSTENTAR EN QUÉ SUPUESTO SE ENCUENTRA EL PROYECTO (MODIFICACIÓN, AMPLIACIÓN O UNA MEJORA TECNOLÓGICA)
+El presente Informe Técnico Sustentatorio (ITS) se realiza en el supuesto de Modificación y Ampliación de la Planta envasadora de GLP, propiedad de la empresa ZETA GAS ANDINO S.A.  según lo estipulado en el ítem  
+4.1 Actividades de Comercialización a través de Establecimientos de Venta al Público de Hidrocarburos del Anexo N° 1 “Criterios Técnicos para la Evaluación de Modificaciones, Ampliaciones en las Actividades de Hidrocarburos y Mejoras Tecnológicas con Impactos No Significativos”, respecto de actividades que cuenten con certificación ambiental de la R.M. N° 159-2015-MEM/DM.
+Estas modificaciones propuestas permitirán a la Planta envasadora contar con una mayor capacidad de almacenamiento y un mayor número de clientes
+DESCRIPCIÓN DE LAS ACTIVIDADES Y COMPONENTES QUE PROPONE EL ITS, COMO UNA MODIFICACIÓN Y AMPLIACIÓN O UNA MEJORA TECNOLÓGICA.
+Para el presente Proyecto proponemos las siguientes modificaciones dentro del área actual de la Planta envasadora de GLP:
+Reducir el área del terreno actual de 5000.00 a 4167.86 m2. Es necesario aclarar que el área de 5,000 m2 ya fue reducida a 4,167.86 m2 para dar lugar a la construcción de un gasocentro de GLP actualmente operando.  
+Se contará con una puerta adicional para ingreso y salida vehicular a la Planta Envasadora. 
+La actual oficina administrativa será demolida y se construirá otro edificio administrativo donde se ubicarán las oficinas de contabilidad, recepción cuarta de conteo, sala de capacitación y reuniones y servicios higiénicos. 
+Instalación de 01 tanque nuevo adicional N° 2 de 13,900 galones que almacenará Gas Licuado de Petróleo GLP con lo cual la planta continuará operando con una capacidad total de almacenamiento de 23,900 galones de GLP. 
+Reubicar el tanque pulmón de 250 galones.
+El cuarto de bombas permanecerá en el mismo lugar. El cuarto del grupo electrógeno y cuarto de máquinas serán reubicados. El cuarto de tableros eléctricos permanecerá en el mismo lugar. 
+Zona de Tanques Superficiales
+El tanque nuevo de 13,900 galones se instalará, en posición paralela horizontal, superficial a 3.00m de separación el tanque existente de 10,000 galones con los extremos alineados y sobre una base de concreto armado, con mezcla de concreto de Fc. 210 kg/cm2 y fierro corrugado de Fy= 4200 kg/cm.
+Para evitar la corrosión de los tanques para GLP se colocará una protección anticorrosiva con pintura asfáltica. Se ha considerado la apertura de un libro de Registro de Inspecciones para tanque de GLP.
+MAPA, PLANO O DIAGRAMA DE LAS ACTIVIDADES Y COMPONENTES APROBADOS EN SU IGA Y, DE LAS ACTIVIDADES QUE PROPONE EN EL ITS, A NIVEL DE FACTIBILIDAD, ESCALA ADECUADA DONDE SE VISUALICE SU CONTENIDO EN COORDENADAS UTM DATUM WGS 84.
+En el Anexo N° 04 se adjunta el Plano de Ubicación-Situación y Distribución Actual y en el Anexo N° 05 Plano del Proyecto de Modificación.
+DE SER EL CASO, INDICAR LOS RECURSOS E INSUMOS A REQUERIRSE PARA IMPLEMENTAR EL ITS; EN CASO INVOLUCRAR RECURSOS HÍDRICOS, PRECISAR LA FUENTE, EL VOLUMEN, EL CAUDAL, SU TRATAMIENTO Y DISPOSICIÓN FINAL; INDICAR LAS COORDENADAS DE UBICACIÓN DE LOS PUNTOS DE CAPTACIÓN Y DESCARGA, QUE DEBERÁN ESTAR PLASMADOS EN EL MAPA DE COMPONENTES CORRESPONDIENTE AL ITS.
+Para la ejecución del presente Proyecto se requerirán los siguientes recursos e insumos:
+Maquinaria para la demolición del pavimento y equipos para la excavación, retirar la tierra y desmonte de las instalaciones proyectadas.
+Cemento, arena, fierro y agua para hacer los cimientos de las instalaciones y modificaciones según sea el caso.
+El volumen de agua para la construcción es pequeño y será de las propias instalaciones con que cuenta la Planta envasadora.  
+El cemento, la arena, fierro y la tubería serán adquiridos de proveedores locales.
+Instalaciones Mecánicas
+Tanques de Almacenamiento de GLP. -
+El tanque nuevo a instalarse de 13,900 galones de capacidad se fabricará mediante proceso de soldadura por ambos lados asegurándose un 100% de penetración. El cuerpo estará constituido por anillos de planchas roladas. Las tapas estarán conformadas por secciones roladas y bombeadas. La inspección radiográfica se efectuará al 100% de las uniones soldadas. Su instalación será en superficie y sus principales características son:
+Designación
+Características
+Capacidad Nominal
+13,900 galones
+Norma de Fabricación
+ASME Sección VIII División 1 y NFPA 58
+Tipo
+Cilíndrico Horizontal
+Tipo de Cabezales
+Semiesféricas
+Diámetro interior de tapas
+Diámetro interior cuerpo
+Diámetro exterior
+2,300 mm
+2,291 mm
+2,316 mm
+Longitud Total del Tanque
+13,546 mm
+Presión de Diseño
+250 psi
+Presión de Prueba Hidrostática
+325 psi
+Presión Apertura Válvula de Seguridad
+300 psi (según ASME Sección VIII)
+Presión de Trabajo Maxima
+180 psi a 125°F, Exterior: 0.0 psi a 125°F
+Material del Cuerpo
+SA – 612
+Materia Cabezal
+SA – 612
+Prueba Radiográfica
+Rayos X Tasa 100%
+Factor de Soldadura Cuerpo Cilíndrico
+SA – 612 usar WM-101 & WM-107
+Factor de Soldadura de Tapas
+SA – 612 usar WM-101 & WM-107
+Protección y Seguridad del Tanque
+El tanque Nuevo estará protegido con sistema de rociadores, para el enfriamiento en caso de producirse un incendio. El diseño e instalación del Sistema contra incendio, está de acuerdo a los requerimientos del D.S. Nº 027-94- EM, Reglamento de Seguridad para Instalaciones y transporte de gas Licuado de Petróleo NFPA 13, NFPA15, etc. de acuerdo a recomendaciones del estatuto de riesgo con que dispone la empresa.
+Adicionalmente la planta cuenta con un tanque pulmón de aproximadamente 250 galones al cual se depositarán los restos de GLP de los cilindros vacíos.
+El personal no excederá de 10 personas, donde están incluidos obreros, técnicos e ingenieros.
+PRESENTAR UN CRONOGRAMA DE EJECUCIÓN Y EL COSTO DE LA MODIFICACIÓN.
+En el Anexo N° 06, se adjunta el Cronograma de Ejecución.
+El costo del presente Proyecto es de US$ 162,859.00 (Ciento sesenta y dos mil ochocientos cincuenta y nueve con 00/100 Dólares Americanos).  No incluye el I.G.V. (18%).
+PRESENTAR INFORMACIÓN ACTUALIZADA DE LOS COMPONENTES AMBIENTALES A SER IMPACTADOS POR LA MODIFICACIÓN Y AMPLIACIÓN (INDICAR LA FUENTE DE INFORMACIÓN PRIMARIA O SECUNDARIA).
+Se consideran tres grandes componentes: el medio físico, biológico y el medio sociocultural, el cual no hay un cambio relevante en las condiciones ambientales.
+El primero y el segundo está constituido por los siguientes sistemas interrelacionados: la atmósfera, la hidrosfera, litosfera y la biósfera.  Estos sistemas son dinámicos y en ellos puede influir la acción humana.
+El tercero está constituido por el medio sociocultural que comprende los grupos humanos, las interrelaciones de producción, la infraestructura y los sistemas institucionales creados por el hombre. 
+Descripción actualizada de los componentes ambientales que podrían ser afectados por el ITS:
+Breve Descripción de las Características del Entorno
+La Planta se ubica en una zona rural, en el lugar denominado Colpa Baja, a la altura del km 4.2 carretera al aeropuerto, la cual se encuentra rodeada de parcelas agrícolas con escasos sembríos de pan llevar, no existiendo a menos de 100 m. ningún local público como escuelas, hospitales, cines, iglesias, centros comerciales u otros locales donde se realicen concentraciones de público; además, a menos de 50 m. no se observan sub estaciones eléctricas ni cables de alta tensión. Cumpliendo de esta manera con la reglamentación vigente (D.S. N° 027-97-EM).
+MEDIO FÍSICO
+Geologia
+Cronológicamente, el área pertenece a las edades que van desde el Neoproterozoico hasta el Cuaternario reciente. El Neoproterozoico está representado por rocas metamorficas que constituyen el basamento de la secuencia estratigráfica, siendo la roca más antigua.
+Los eventos plutónicos que han sucedido se ubican en el Paleozoico Inferior y Cretaceo-Paleogeno. Estos cuerpos intrusitos son denominados como Batolitote higueras, Plutones de Tres Alcantarillas.
+El Cretáceo Terminal-Paleógeno está representado por series de detríticas rojizas y carbonatadas de la formación Casapalca. Cubriendo a toda la secuencia litoestatigráfica pre-cuaternaria se tienen depósitos morrénicos, fluvioglaciares y aluviales.
+Tabla 3-1. Perfil del Suelo
+Profundidad
+m
+Espesor
+M
+Descripción
+0,00- 0,40
+0,40
+Relleno, suelo arenoso
+0,40- 1,50
+0„90
+Perfil arenoso a base de arenas de origen eólico (margen cercano a Rio Huallaqa)
+0,900 >
+>5,00
+Material conglomerado; con dastos intrusitos y volcánicos. Es arcillosa y arenoso.
+En Tabla 3-1., se presenta el perfil del terreno.
+Geomorfología
+El área de estudio, está conformado por un relieve que se inicia el lado Oeste de cumbres medianamente elevadas que progresivamente van descendiendo en cota hasta limitar con las márgenes de la zona sub-andina En las partes bajas que rodean al área, son presiones longitudinales (valles por donde drenan las aguas superficiales del Ríos Huallaga). En la ciudad de Huánuco y gran parte de las localidades comprendidas en el valle del rio Huallaga tienen relieves que es relativamente accidentado. Conformado por valles de fondos amplios y quebradas estrechas con cotas que van desde los 1000 hasta los 2300 m.s.n.m. que comprenden la región Yunga.
+Sísmica
+El nivel sismológico en el área es de relativa tranquilidad. Los eventos de movimiento sísmico son de origen tectónico relacionado al movimiento de placas tectónicas tanto del lado amazónico como del Océano Pacifico, en especial la placa Tectónica de Nazca. Los registros sismológicos de mediciones hechas en setiembre de 1956 señalan un epicentro distante a 52 Km. del centro de la ciudad y un epicentro distante a 97 Km. De profundidad, la magnitud registrada es de 6.4 m/s.
+Es necesario verificar la cimentación y la estructura del soporte del tanque estacionario, de acuerdo a la sismicidad de la zona.
+Hidrología
+El sistema de distribución en el área de estudio está controlada por el principal colector que es el rio de Huallaga, el que a su vez con los ríos Pumachaca-Rangra, Chinchao, constituyen la gran cuenca hidrográfica del rio Huallaga y que finalmente formaran la red hidrográfica del río Amazonas.
+El río Huallaga en su margen izquierda recibe de sus afluentes principales subsecuentes que son los ríos Huancachupa, Higueras, Garbanza, Chinibamba y Acomayo, en su margen derecha recibe caudales de las quebradas Chicuy, Pumarnri, Otijmayo y Yanamayo. El gran caudal del rio Huallaga discurre por un amplio valle de pendiente suave en su tramo inicial conformado amplias terrazas que se sitúan en ambas márgenes a largo de su recorrido.
+El nivel freático en el área de estudio, se encuentra a una profundidad de 6.0 m. de donde alimenta a una cisterna para ser utilizada en el sistema de enfriamiento para los tanques accionario de GLP y para el uso de los servicios higiénicos. 
+Condiciones Meteorológicas
+La información que se describe a continuación es de acuerdo a reportes del Servicio Nacional de Meteorología e Hidrología (SENAMHI)
+Clima
+Las variaciones climáticas son propias de la serranía y de las regiones selváticas. El clima que corresponde al área de estudio es el clima templado Moderado Lluvioso (Cw), este es un clima de invierno seco donde la cantidad de las aguas de la lluvia de mes lluvioso es 10 veces mayor que el mes seco. La temperatura mínima registrado es de 17°C y un máximo de 30° C.
+Precipitación
+Las precipitaciones anuales que se registran en el área de estudio son las siguientes:
+De mayo a agosto, en las zonas altas cordilleranas existe ausencia de lluvias, siendo común las heladas
+De diciembre a marzo, las lluvias son abundantes, originando el crecimiento de los ríos y una permanente humedad. En las quebradas, valles y zonas de selva las lluvias van acompañadas de neblina que origina un clima tropical.
+Humedad Relativa
+La humedad relativa máxima en época de verano es de unos 60% y la mínima de 40% y en la época de invierno la humedad relativa máxima es de 70% y la mínima de 40%. Las instalaciones de tanques y tuberías, no están expuesta directamente a lluvias, por estar techadas. La humedad, es importante para la protección de los materiales y equipos contra los fenómenos de corrosión.
+Vientos
+El comportamiento del viento es: 
+Los vientos predominantes son de la dirección N-Este y son modificados por las elevaciones montañosas del valle. La velocidad promedio es 5.98 m/s 
+La presencia de vientos de menor intensidad es entre las 9:00 y 12:00 horas, y la de mayor intensidad, se presentan entre las 12:00 y 14:00 horas. La influencia de la intensidad  del viento es importante sobre el GLP, en casos de fugas y escapes de mayor magnitud. La intensidad del viento influye en la dispersión de GLP.
+Uso del Suelo
+La planta se ubica en zona rural, en donde las propiedades del entorno son parcelas unipersonales y sus respectivas viviendas. La planta ocupa un terreno de uso y derecho privado, perimétricamente cercado y cuenta con Licencia de Funcionamiento Municipal emitida por la Municipalidad provincial de Huánuco.
+MEDIO BIOLOGICO
+Flora
+En área externa de la planta, existen pequeños campos de cultivo y arbustos de cipreses y frutales; plantaciones ornamentales, plátanos, naranjos, etc., ésta biodiversidad no está siendo afectada por las actividades de la empresa.
+Fauna
+La fauna consiste en animales silvestres menores, como aves errantes, reptiles, arácnidos y ofidios. Esta biodiversidad, no está siendo afectada por las actividades de la planta, por encontrarse el área de la planta cercada y aislada. 
+c) El tipo de ecosistema a que pertenece esta zona se determinó haciendo uso del sistema de clasificación de Lesly R. Holdridge llegándose a determinar una zona de vía tipo Premontano subtropical, cuya temperatura promedio anual es de 18 a 24ºC y precipitaciones normales de 250 a 500mm.
+1.3 MEDIO SOCIAL, CULTURAL Y ECONÓMICO
+Población y Economía
+La zona de influencia directa de la planta son las parcelas que se ubican en el entorno hasta una distancia de 100 mts., denominado Colpa Baja con una población de 200 habitantes aproximadamente.
+La economía de la población del entorno es fundamentalmente agrícola estacional.
+Características de la Vivienda
+En Colpa Baja Sector II, las viviendas que se ubican en cada parcela de terreno son rusticas a base de Quincha, adobe y en algunos casos es de material noble.
+Servicios
+Servicio de agua y desagüe
+La población de Colpa Baja, en zona de la planta, no cuenta con servicios de red de agua a domiciliaria y alcantarillado. Se abastecen con pozos de agua donde el nivel de agua se encuentra aproximadamente a 5 m de profundidad.  Los efluentes sanitarios, son evacuados a silos.
+Servicios de Limpieza Pública
+En Colpa Baja, y particularmente, el recojo y traslado de residuos los realiza la Municipalidad Provincial, mediante camiones recolectores. Los residuos son dispuestos en rellenos sanitarios administrados por la misma Municipalidad.
+Servicios de Transporte
+Desde la zona de Colpa Baja, los habitantes se trasladan hasta la carretera de Huánuco a Tingo María, para trasladarse a la ciudad.
+Servicios de Energía Eléctrica 
+La Planta, cuenta con derivación de energía eléctrica desde la red de transmisión externa. Para los casos de corte y fallos de suministro externo, se dispone con un generador eléctrico. 
+Servicios de Comunicación
+La población, no cuenta con servicios de comunicación a base de telefonía fija, pero si cuenta con servicios de telefonía móvil de cobertura nacional y local.
+Educación
+La población cuenta con un colegio primario y jardín C.E. N° 32664 estatal.
+Salud 
+Cuenta con un puesto de salud Colpa Baja   
+IDENTIFICACIÓN Y EVALUACIÓN DE IMPACTOS
+A continuación, se describirá la identificación de los impactos y la metodología de evaluación de impactos para las actividades del proyecto de Modificación y Ampliación de la planta envasadora de GLP.
+Identificación de las Actividades que pueden Causar Impactos
+En función de la descripción del Proyecto se determinaron las actividades que generarán posibles impactos ambientales en el área del proyecto. Estas actividades se agruparon en actividades principales en función de sus características y los posibles impactos que generarían.
+Cuadro N° 1.-  Actividades del Proyecto
+N°
+Etapa
+Actividad
+1
+Construcción
+Construcción de las obras civiles y mecánicas
+4
+Instalación de 01 tanque de almacenamiento de GLP
+7
+Operación y mantenimiento 
+Recepción y almacenamiento del combustible GLP  en la planta 
+10
+Estacionamiento y Tránsito del camión cisterna dentro de la planta. 
+11
+Envasado almacenamiento y venta del cilindro de GLP. 
+Mantenimiento de Equipos 
+14
+Abandono
+Demolición de obras civiles
+15
+Desmontaje y traslado de equipos metálicos, limpieza y nivelación de área.  
+16
+Clausura y abandono de la Planta de GLP. 
+Identificación de los Componentes y Aspectos Ambientales del Entorno Susceptibles de ser Impactados.
+En la siguiente matriz se plantea los factores socio-ambientales y aspectos ambientales que podrían ser afectados por el Proyecto.
+Cuadro N° 2.-  Identificación de los Componentes Ambientales, Aspectos Ambientales e Impactos Ambientales
+Componente Ambiental
+Aspecto Ambiental
+Impacto Ambiental
+Físico
+1
+Calidad Atmosférica:  Aire
+Generación de material particulado, emisiones gaseosas de combustión y emisiones fugitivas de GLP
+Alteración de la calidad del aire por material particulado emisiones gaseosas de combustión y emisiones fugitivas de GLP. 
+2
+Calidad Atmosférica:  Ruido
+Generación de Ruido.
+Incrementos de los niveles de presión sonora
+3
+Suelo
+Calidad de suelo. 
+Alteración de la calidad de suelo por residuos sólidos peligros y no peligrosos. 
+4
+Agua
+Calidad de agua subterránea.  
+Alteración de la calidad del agua subterránea por efluentes domésticos y productos contaminantes.  
+Socioeconómico Cultural
+5
+Empleo 
+Generación de empleo
+Incremento de mano de obra 
+6
+Economía Local
+Generación de ingresos económicos
+Incremento de ingresos económicos 
+7
+Salud
+Enfermedades y  accidentes ocasionados por el trabajo
+Riesgos a la salud y accidentes de trabajo 
+Evaluación de Impactos
+Metodología de Evaluación de los Potenciales Impactos Ambientales
+El proceso de selección de los métodos de evaluación de impactos consideró como criterio principal y determinante, el uso de metodologías aceptadas y estandarizadas, por lo cual se presentan tablas de interacción cualitativas y cuantitativas, las cuales se denominan matrices. Los impactos ambientales se analizaron y evaluaron, considerando su condición de positivos o negativos y directos o indirectos. El impacto ambiental se determinó sobre la base de las siguientes características: carácter o naturaleza, extensión, plazo de manifestación o momento, persistencia, reversibilidad, recuperabilidad, sinergia, acumulación, efecto y periodicidad.
+La identificación de los impactos ambientales y sociales del Proyecto se generó a partir del análisis de las operaciones del Proyecto con potencial de originar impactos ambientales y los componentes del ambiente potencialmente afectables, con esta información se elaboró una matriz denominada calificación de impactos ambientales, que permitió obtener una valorización cualitativa de los impactos ambientales para las diferentes fases del Proyecto, la misma que se tradujo en valores para aplicar un índice de significancia por medio de la fórmula de valoración de impactos ambientales (CONESA, 2010).
+Valoración de los Impactos Ambientales
+Los impactos positivos se calificaron empleando un índice o valor numérico de significación favorable (+), y los impactos negativos, empleando un índice o valor numérico de significación adversa (-). Tales índices se generan otorgando puntajes de acuerdo a los atributos asignados por la fórmula de valoración.
+Valoración por significancia
+La valoración o calificación de los impactos ambientales y sociales por significancia, incluye un análisis global del impacto, y determina el grado de importancia de éste sobre el ambiente receptor. La valoración define la significancia del efecto, dependiendo de la modificación de las condiciones iniciales del componente ambiental analizado.
+Para la calificación de los efectos e impactos se empleó un índice de significancia (S). Este índice se obtuvo al aplicar la fórmula de valoración, la cual consigna un conjunto de atributos o características, a partir del cual el impacto es calificado. El método utilizado define una calificación, la cual mide la alteración producida, la misma que responde a una serie de atributos de tipo cualitativo, los cuales se presentan en la tabla siguiente:
+Cuadro N° 3.-  Atributos Utilizados en la Fórmula de Valoración de Impactos
+Grado de Manifestación Cualitativa y Simbología
+Carácter o naturaleza
+N
+Intensidad
+I
+Extensión
+EX
+Plazo de manifestación o momento
+MO
+Persistencia
+PE
+Reversibilidad
+RV
+Recuperabilidad
+RC
+Sinergia
+SI
+Acumulación
+AC
+Efecto
+EF
+Periodicidad
+PR
+Los atributos consignados se valoran o califican con un número, que se indica en la casilla de cada celda que cruza la actividad con el factor ambiental que se estima será afectado. Al final de las casillas de evaluación, se consigna el valor final que responde a la fórmula de valoración de impactos ambientales. A continuación, se presenta la fórmula de valoración de impactos por significancia (S):
+S = N * (3*I + 2*EX + MO + PE + RV + RC + SI + AC + EF + PR)S = N * (3*I + 2*EX + MO + PE + RV + RC + SI + AC + EF + PR)
+S = N * (3*I + 2*EX + MO + PE + RV + RC + SI + AC + EF + PR)
+S = N * (3*I + 2*EX + MO + PE + RV + RC + SI + AC + EF + PR)
+La Tabla siguiente presenta los criterios y la calificación cuantitativa de los parámetros que permitieron estimar los índices o valores numéricos de significación.
+Cuadro N° 4.-  Resumen de Valoración de la Cualidad por Atributo
+Atributo
+Cualidad 
+Valor
+NATURALEZA
+(N)
+Beneficioso
+Perjudicial
++ 1
+- 1
+INTENSIDAD
+(I)
+Baja
+Media
+Alta
+Muy alta
+Total
+1
+2
+4
+8
+12
+EXTENSION
+(EX)
+Puntual
+Parcial
+Extensa
+Total
+1
+2
+4
+8
+MOMENTO
+(MO)
+Largo plazo
+Medio plazo
+Inmediato
+Crítico
+1
+2
+4
+(+ 4)
+PERSISTENCIA
+(PE)
+Fugaz
+Temporal
+Permanente
+1
+2
+4
+REVERSIBILIDAD
+(RV)
+Corto plazo
+Medio plazo
+Irreversible
+1
+2
+4
+RECUPERABILIDAD
+(RC)
+Inmediato
+Medio plazo
+Mitigable
+Irrecuperable
+1
+2
+4
+8
+SINERGIA
+(SI)
+Sin sinergismo
+Sinérgico
+Muy sinérgico
+1
+2
+4
+ACUMULACION
+(AC)
+Simple
+Acumulativo
+1
+4
+EFECTO
+(EF)
+Indirecto
+Directo
+1
+4
+PERIODICIDAD
+(PR)
+Irregular
+Periódico
+Contínuo
+1
+2
+4
+Los valores numéricos obtenidos, permitieron agrupar los impactos de acuerdo al siguiente rango de significación, según se aprecia en la tabla siguiente:
+Cuadro N° 5.-  Significancia Ambiental de los Impactos
+Valoración por
+Calificación
+Rangos**
+Significancia (S)*
+Leve
+< 25
+Moderada
+25 – 50
+Alta
+50 – 75
+Muy alta
+> 75
+*  Su valor es la resultante de la valoración asignada a los atributos que intervienen en la calificación
+**  Los rangos se establecen en función de valores promedios
+Matriz de Identificación de Impactos 
+Potenciales Productos de la Modificación, Ampliación o una Mejora Tecnológica
+Según el ITS se desarrollan las siguientes matrices, para las etapas de construcción, operación, mantenimiento y abandono. 
+         
+                                                                  
+Interpretación General del resultado de las matrices de valoración de impactos Ambientales 
+Etapa de Construcción
+De acuerdo a los resultados de valoración para las actividades de construcción de obras civiles y mecánicas e instalación de tanque de almacenamiento  para GLP  se ha obtenido valores  de impacto negativo leve, considerando  como impacto  no significativos  para los componentes  ambientales  de aire, ruido, suelo, agua  y salud ; para los componentes  ambientales  de empleos  y economía  local que ha obtenido resultados de valores  de impacto positivo bajo. 
+Etapa de Operación y Mantenimiento 
+Según los resultados de valoración para las actividades de recepción y almacenamiento de combustible GLP en la planta,  de estacionamiento  y tránsito de camión  cisterna  GLP  dentro  del área de la planta , se ha  obtenido  valores  de impacto  negativo leve, considerado como  impacto significativo para  los componentes  aire, ruido, suelo, agua, y salud;  y para  los componentes ambientales  de empleo y economía  local, se obtenido  resultados  de valores  de impacto positivo bajo .
+Etapa de Abandono
+Para las actividades de demolición de obras civiles, desmontaje y traslado de equipos metálicos, limpieza y re nivelación del área de la planta  de GLP  se ha obtenido  valores  de impacto negativo leve,  considerado  como impacto no significativo  para los componentes  ambientales aire, ruido, suelo,  agua, y salud; y para los componentes  ambientales  de empleo  y economía  local, se ha  obtenido  resultados de valores  de impacto positivo bajo. Para las actividades de clausura y abandono de la planta de GLP ha resultado valores  de impacto bajo positivo  para los componentes  aire, ruido, suelo, agua y salud  y para los componentes  ambientales  de empleos  y economía  local ha  resultado valores  de impactos negativos  leves  no  significativos.       
+         
+Descripción y Evaluación de los Potenciales Impactos Identificados, Incluyendo los Impactos Acumulativos y Sinérgicos
+Etapa de Construcción. -
+Alteración de la Calidad del Aire por material particulado y emisiones gaseosas
+Las emisiones gaseosas de combustión y la generación de material particulado debido a la operación de maquinaria pesada, afectaría la calidad del aire debido a las actividades de movimiento de tierra, excavaciones en terreno natural, demolición de pavimento y edificaciones, pared perimetral y construcción de obras civiles y mecánicas.
+Incremento de los Niveles de Presión Sonora
+El traslado y la operación de las maquinarias y equipo pesado dentro del área del Proyecto ocasionará que se produzca un incremento de los niveles de presión sonora, sin embargo este impacto será localizado, ya que todas las actividades se restringirán en el área destinada para las actividades de construcción.
+Alteración de la Calidad del Agua subterránea por efluentes domésticos u otros productos contaminantes.  
+La napa freática o aguas subterráneas pueden verse afectadas por efluentes domésticos o por probables derrames de productos contaminantes (combustibles, solventes, etc.) que logren penetrar hasta el acuífero.  La profundidad de la napa freática está a aproximadamente 6.0m. de profundidad.
+En el área del Proyecto no existe ninguna fuente de agua superficial cercana que pueda ser afectada.
+Alteración de la Calidad del Suelo por residuos sólidos peligrosos y no peligrosos. 
+La acumulación y un mal manejo de los residuos sólidos peligrosos y no peligrosos, y/o un derrame de combustibles u otros productos, afectarían la calidad del suelo.
+Riesgo a la Salud y Accidentes de Trabajo
+La salud de los trabajadores puede verse afectada por accidentes de trabajo (si no cuentan con sus equipos de protección personal (EPP)) por emisiones de gases y/o material particulado, por accidentes de tránsito y también por el incremento de ruidos.
+Incremento de Mano de Obra
+Se generará mano de obra temporal para los trabajos de obras civiles, metalmecánicas y especialistas en el montaje del tanque de almacenamiento de GLP y equipos.
+Incremento de Ingresos Económicos
+Debido a la compra de materiales insumos se generará ingresos económicos por impuestos y tributos.
+Etapa de Operación y Mantenimiento. -
+Alteración de la Calidad del Aire por material particulado, emisiones gaseosas de combustión y emisiones fugitivas de GLP
+Durante la descarga, despacho y manipulación del combustible GLP, podría generarse emisiones de fugitivos, los mismos que se disipan inmediatamente por la amplitud del área y la aparición de los vientos que soplan en el área de la Planta.
+La emisión de material particulado y emisiones gaseosas será mínima debido al tránsito de entrada y salida de los camiones graneleros y camiones de reparto de GLP.   
+También podría alterar la calidad del aire durante los trabajos de pintado de los cilindros de GLP.
+Incremento de los Niveles de Presión Sonora
+La operación de los camiones graneleros de transporte de combustibles GLP, la operación del compresor para la descarga de GLP y la operación de las electrobombas para el envasado de GLP y pintado generaran ruido, sin embargo, este impacto será localizado, ya que todas las actividades se restringirán en el área destinada para las actividades de operaciones de la planta. 
+Alteración de la Calidad del Agua Subterráneo por efluentes domésticos u otros productos contaminantes.   
+En el área del Proyecto no existe ninguna fuente de agua superficial que pueda ser afectada.
+La napa freática puede verse afectada por posibles derrames de combustibles a pesar que su profundidad está a aproximadamente 6.0 m.  
+Alteración de la Calidad del Suelo por residuos sólidos peligrosos y no peligrosos. 
+La acumulación y el inadecuado manejo de los residuos sólidos generados, tanto domésticos como industriales peligrosos (aceite usado, filtros, arena contaminada, etc.) y no peligrosos, afectarán la calidad del suelo.
+La calidad del suelo también podría ser afectado por algún derrame de combustible líquido de los camiones graneleros durante las operaciones de descarga y despacho a pesar que en parte de la planta estará pavimentada.  
+Riesgo a la Salud y Accidentes de Trabajo
+Los daños que se podrían ocasionar al ser humano sólo serían por accidentes de trabajo (actos y condiciones inseguras, y por desastres naturales), por emisiones de gases y/o material particulado, por accidentes de tránsito, y también por el incremento de ruido.
+Incremento de mano de obra. 
+Los impactos al medio socio económico serán positivos, pues el Proyecto contribuirá al desarrollo económico-comercial, y en general al Distrito de Huánuco (rentas); entre ellos tenemos:
+Se generarán puestos de trabajo para mano de obra calificada y no calificada, concordantes con la operación de la Planta envasadora de GLP.
+Se fomentará el empleo directo e indirecto.
+Se dará prioridad a la mano de obra local.
+Incrementos de ingresos económicos 
+Debido a la compra de materiales insumos, combustible GLP se generará ingresos económicos por impuestos y tributos.    
+En los alrededores cercanos al de la planta no existen restos culturales arqueológicos.
+Etapa de Abandono. -
+Alteración de la Calidad del Aire
+Se generará material particulado y gases de combustión durante la operación de la maquinaria para la demolición de las infraestructuras civiles y desmontajes de los tanques.
+Incremento de los Niveles de Presión Sonora
+La operación de las maquinarias para las actividades de demolición, desmontajes de tanque de GLP, equipos y transporte de los materiales de desmonte generarán ruido.
+Alteración de la Calidad del Suelo por residuos sólidos peligros y no peligrosos. 
+La acumulación y el inadecuado manejo de los residuos sólidos generados, tanto domésticos como industriales peligrosos (aceite usado, filtros, arena contaminada, etc.) y no peligrosos, afectarán la calidad del suelo.
+Alteración de la calidad del agua subterránea por derrame de productos contaminantes (agua de lavado de los tanques)  
+En el área del Proyecto no existe ninguna fuente de agua superficial que pueda ser afectada.
+La napa freática puede verse afectada por posibles derrames de combustibles a pesar que su profundidad está a aproximadamente 6.0 m.  
+Riesgo a la Salud y Accidentes de Trabajo 
+La salud de los trabajadores puede verse afectada por accidentes de trabajo (si no cuentan con sus equipos de protección personal (EPP) por emisiones de gases y/o material particulado, por accidentes de tránsito y también por el incremento de ruidos.  
+Realizar una Comparación de los Impactos Identificados en su IGA Aprobado con los Identificados en el ITS
+Cabe señalar que los componentes e impactos ambientales identificados en el IGA aprobado son los mismos identificados en el presente ITS.  En el siguiente cuadro se hace la comparación de los impactos del PMA aprobado y del ITS:
+Cuadro N° 10.-  Comparación de Impactos
+ PMA Aprobado
+ITS
+Los componentes considerados fueron: paisaje, suelo, hídrico, aire, flora/fauna y Salud.
+ETAPA DE CONSTRUCCIÓN
+En esta etapa no se identificó ni evaluó los impactos.   
+ETAPA DE OPERACIÓN
+Alteración de la calidad del aire por emisiones gaseosas durante la recepción y despacho de combustibles o por evaporación de los tanques.
+Alteración de los niveles de presión sonora.
+Alteración de la calidad del suelo por residuos peligrosos por derrames en el despacho y mantenimiento de las máquinas.
+Alteración de la calidad del agua por aguas residuales de los servicios higiénicos.
+ETAPA DE ABANDONO 
+En esta etapa no se identificó ni evaluó los impactos.   
+Los componentes considerados fueron: Aire, ruido, suelos, agua, empleo, economía local y salud. 
+ETAPA DE CONSTRUCCIÓN
+Se considera un impacto negativo leve al componente agua subterránea.
+Al componente de aire se considera un impacto negativo leve.
+Al componente suelo se le considera un impacto negativo leve.
+ETAPA DE OPERACIÓN Y MANTENIMIENTO 
+Se considera un impacto negativo leve al componente agua subterránea.
+Al componente aire se considera con un impacto negativo leve.
+Al componente suelo se considera con un impacto negativo leve.
+Para el caso del empleo se considera impacto positivo bajo.
+Para el tema de seguridad se considera un impacto negativo leve.
+ETAPA DE ABANDONO
+A los componentes aire, presión sonora, suelo y agua se les considera con un impacto negativo leve para las actividades de demolición, desmontaje y traslado de equipos metálicos, renivelación del área y accidentes laborales.
+A los componentes de generación de empleo y economía local se les considera impacto positivo bajo por la generación de empleo temporal.
+Solo para el caso de la economía local los impactos son negativos ya que habrá una reducción de puestos de trabajo para la población. 
+En ambos casos, tanto para el PMA aprobado como el ITS, se muestra que son impactos ambientales negativos no significativos, ya que sus impactos son considerados bajos.
+IMPLEMENTACIÓN DE LOS PLANES O PROGRAMAS DE MANEJO AMBIENTAL QUE CONLLEVEN PARA CADA UNO DE LOS IMPACTOS IDENTIFICADOS EN LA MODIFICACIÓN Y AMPLIACIÓN; ASÍ COMO, LAS MEDIDAS Y ACCIONES DE SEGUIMIENTO Y CONTROL
+Para el presente Proyecto, en la etapa de construcción, operación, mantenimiento y abandono el Titular se compromete a dar cumplimiento a todos los compromisos aprobados en la PMA y que a continuación se detallan:
+Etapa de Construcción. –
+Alteración de la Calidad de Aire por material particulado y emisiones gaseosas de combustión.  
+El polvo generado por el movimiento de tierra será minimizado humedeciendo la tierra constantemente. Las vías de acceso al área circundante de la planta, que tendrán un tránsito frecuente, se mantendrán húmedas con el fin de evitar la generación de polvo. Se evaluará la frecuencia de riego en función de los requerimientos específicos.
+El almacenamiento temporal del material producto de la demolición excavación y nivelación, se mantendrán húmedas para evitar la generación de polvo debido a la acción de los vientos.
+Se realizará el mantenimiento preventivo de los equipos y maquinarias utilizados para la construcción, de acuerdo a las recomendaciones del fabricante. El apropiado funcionamiento dentro de los parámetros de diseño reduce la cantidad de contaminantes emanados durante la operación de los equipos y maquinarias.
+Todo camión destinado al transporte de material de relleno o materiales de construcción, o de cualquier tipo, deberá recubrir totalmente sus tolvas, a fin de disminuir la emisión de material particulado durante el transporte.
+Incremento de los Niveles de Presión Sonora 
+Durante los trabajos de construcción, los ruidos producidos se deberán principalmente a las maquinas usadas en la construcción como mezcladoras de concreto, etc.
+Para minimizar el ruido es necesario que los equipos tengan el mantenimiento preventivo, adecuado y se encuentren en perfecto estado de operación.
+No se debe hacer uso indebido del claxon.
+Todos los vehículos y maquinarias deben contar con silenciadores.
+Si fuera necesario, dotar de protección auditiva al personal que lo requiera.
+Alteración de la calidad de agua subterránea por efluentes domésticos u otros productos contaminantes. 
+Durante la etapa de construcción no se producirá contaminación del medio hídrico, ya que no se producirá ningún vertimiento que afecte a este medio; salvo algún derrame ocasional de pintura o algún solvente que pueda migrar hasta la napa freática, por lo que se recomienda manipular éstos líquidos con extrema precaución. Los efluentes domésticos serán descargados en el pozo séptico y percolación existente en la planta.    
+Se designará un área con piso impermeabilizado para almacenar pinturas y solventes.  
+Alteración de la calidad de suelo por residuos solidos peligrosos y no peligrosos 
+Se generarán residuos sólidos domésticos, peligrosos. La protección del suelo por efecto de estos residuos se hará efectiva de la siguiente manera:
+Los residuos no peligrosos serán transportados al relleno sanitario municipal.
+Los residuos sólidos peligrosos serán almacenados temporalmente dentro de la Planta, en un área con piso impermeabilizado y techado, y posteriormente serán dispuestos a través de una EO-RS autorizada hasta un relleno de seguridad.
+Para el traslado del desmonte se usarán volquetes, siendo su disposición final en un relleno autorizado por la Municipalidad. El material de desmonte será protegido por una malla para evitar su dispersión durante su traslado.
+El tratamiento y manejo de los residuos sólidos peligrosos y no peligrosos se realizará de acuerdo a lo establecido en el D.S. N° 014-2017-MINAM, Reglamento del Decreto Legislativo N° 1278, Decreto Legislativo que aprueba la Ley de Gestión Integral de Residuos Sólidos.  
+Riesgo a la salud y accidentes de trabajo 
+El Personal responsable de la ejecución del Plan de Manejo Ambiental de cualquier aspecto relacionado a la aplicación de la normatividad ambiental vigente, deberá continuar con la capacitación y entrenamiento necesario, de tal manera que le permita cumplir con éxito las labores encomendadas.
+Se continuará realizando charlas breves y periódicas sobre temas relacionados con el medio ambiente, la salud y la seguridad al inicio de las actividades. Estas reuniones serán de tipo informativo y deberán tener carácter obligatorio.
+Se consideran restricciones para el personal de operaciones como el uso de armas de fuego, consumo de bebidas alcohólicas, manejo de vehículos fuera de horario de trabajo.
+Todo el personal continuará trabajando con elementos de protección personal (EPP), tales como: casco, botas punta de acero, guantes, gafas, máscaras protectoras del polvo, pintura, protección auditiva, arnés.
+Etapa de Operación y Mantenimiento. –
+Alteración de la calidad del aire por material particulado, emisiones gaseosas de combustión y emisiones fugitivas de GLP. 
+Las vías de acceso al área circundante de la planta, que tendrán un tránsito frecuente de vehículos se mantendrán húmedas con agua, con el fin de evitar la generación de polvo. Se evaluará la frecuencia de riego en función de los requerimientos específicos.      
+Para mitigar la generación de gases por el uso de los equipos y transporte de camiones, se realizará el mantenimiento preventivo. El apropiado funcionamiento dentro de los parámetros de diseño reduce la cantidad de contaminantes emanados durante la operación de los equipos.
+Las pequeñas emisiones fugitivas de GLP serán dispersadas por el viento de la zona. En caso se presentarán fugas mayores, éstas serán detectadas con alarmas sonoras que se encuentran instalados en lugares estratégicos de la Planta, con lo cual se paralizarán las actividades de envasado.
+Para evitar la posible contaminación del aire durante la operación del pintado de los cilindros, se continuará utilizando la cabina de pintado existente en la Planta.
+La Planta cuenta con un cerco perimétrico de material noble de 2.5m de altura a fin de evitar la dispersión de GLP y material particulado directamente en las áreas adyacentes.
+Incremento de los niveles de presión sonora 
+Se estima que los ruidos generados no causarán daño a los trabajadores, pues por la experiencia de la operación de la Planta se puede estimar que los niveles de ruido se mantendrán por debajo de los 70 dB.
+El ruido será debido a la operación de la Planta, sin embargo, no habrá equipos que generan ruido alto, salvo el grupo electrógeno, pero este funcionará ocasionalmente, es decir cuando se produzca un corte de energía eléctrica.
+Para minimizar los ruidos en el interior de la Planta, se debe tener presente el Programa de Mantenimiento que garantice una óptima operación de los equipos.
+En cuanto a los vehículos que ingresan a la Planta, deberá asegurarse que su sistema de escape, principalmente el silenciador, se encuentre en buen estado.
+Como medida de prevención los trabajadores de la zona de envasado, que es el área crítica, usarán protectores de oído.
+Alteración de la calidad del agua subterránea por efluentes domésticos u otros productos contaminantes 
+En la Planta no se generarán efluentes industriales.
+Los efluentes domésticos procedentes de los servicios higiénicos serán evacuados por gravedad mediante tuberías hacia las cajas de registro ubicadas convenientemente para finalmente descargar los efluentes en un pozo séptico y percolación. Se utilizará un área con piso impermeabilizado, a fin de evitar las filtraciones, para almacenar pinturas y solventes y los residuos sólidos peligrosos. 
+Alteración de la calidad del suelo por residuos sólidos peligrosos y no peligrosos. 
+En la etapa de funcionamiento y mantenimiento de los equipos de la Planta se producirán residuos, peligrosos y no peligrosos.
+Los residuos no peligrosos serán almacenados en recipientes de metal, con tapas y debidamente rotulados. Serán ubicados temporalmente dentro de la planta, en un área con piso impermeabilizado y techado y su disposición final será realizada a través de las unidades de recolección de residuos de la Municipalidad, y llevados a un relleno sanitario municipal.
+Los residuos peligrosos serán almacenados adecuadamente en recipientes rotulados en un área impermeabilizada y techada, serán dispuestos a través de una EO-RS para su disposición final en un relleno de seguridad.
+El mantenimiento y limpieza de la pintura de los cilindros se hará a través del método de granallado dentro de la planta. El pintado de los cilindros será efectuado en la misma Planta empleando una cabina de pintado. Los residuos que se generen serán considerados peligrosos y serán dispuestos por la EO-RS autorizada. En el anexo 1 se adjunta el Plan de Minimización y Manejo de Residuos Sólidos. 
+Riesgo a la salud y accidentes de trabajo 
+El Personal responsable de la ejecución del Plan de Manejo Ambiental de cualquier aspecto relacionado a la aplicación de la normatividad ambiental vigente, deberá continuar con la capacitación y entrenamiento necesario, de tal manera que le permita cumplir con éxito las labores encomendadas.
+Se continuará realizando charlas breves y periódicas sobre temas relacionados con el medio ambiente, la salud y la seguridad al inicio de las actividades. Estas reuniones serán de tipo informativo y deberán tener carácter obligatorio.
+Se consideran restricciones para el personal de operaciones como el uso de armas de fuego, consumo de bebidas alcohólicas, manejo de vehículos fuera de horario de trabajo.
+Todo el personal continuará trabajando con elementos de protección personal (EPP), tales como: casco, botas punta de acero, guantes, gafas, máscaras protectoras del polvo, pintura, protección auditiva, arnés.
+Etapa de Abandono 
+Alteración de la Calidad de Aire por material particulado y emisiones gaseosas de combustión.  
+El polvo generado durante los trabajos de demolición y por el movimiento de tierra será minimizado humedeciendo la tierra constantemente. Las vías de acceso al área circundante de la planta, que tendrán un tránsito frecuente, se mantendrán húmedas con el fin de evitar la generación de polvo. Se evaluará la frecuencia de riego en función de los requerimientos específicos.
+El almacenamiento temporal del material producto de la demolición excavación y nivelación, se mantendrán húmedas para evitar la generación de polvo debido a la acción de los vientos.
+Se realizará el mantenimiento preventivo de los equipos y maquinarias utilizados para la demolición, de acuerdo a las recomendaciones del fabricante. El apropiado funcionamiento dentro de los parámetros de diseño reduce la cantidad de contaminantes emanados durante la operación de los equipos y maquinarias.
+Todo camión destinado al transporte de material de desmonte o de cualquier tipo, deberá recubrir totalmente sus tolvas, a fin de disminuir la emisión de material particulado durante el transporte.
+Incremento de los Niveles de Presión Sonora 
+Durante los trabajos de demolición, los ruidos producidos se deberán principalmente a las maquinas usadas en la demolición de pavimentos o muro de concreto, etc.
+Para minimizar el ruido es necesario que los equipos tengan el mantenimiento preventivo, adecuado y se encuentren en perfecto estado de operación.
+No se debe hacer uso indebido del claxon.
+Todos los vehículos y maquinarias deben contar con silenciadores.
+Si fuera necesario, dotar de protección auditiva al personal que lo requiera.
+Alteración de la calidad de agua subterránea por efluentes domésticos u otros productos contaminantes. 
+Durante la etapa de demolición no se producirá contaminación del medio hídrico, ya que no se producirá ningún vertimiento que afecte a este medio; salvo algún derrame ocasional de combustible del equipo pesado de demolición que pueda migrar hasta la napa freática, por lo que se recomienda manipular éstos líquidos con extrema precaución. 
+Se designará un área con piso impermeabilizado para almacenar residuos peligrosos.  
+Alteración de la calidad de suelo por residuos solidos peligrosos y no peligrosos 
+Se generarán residuos sólidos domésticos, peligrosos. La protección del suelo por efecto de estos residuos se hará efectiva de la siguiente manera:
+Los residuos no peligrosos serán transportados al relleno sanitario municipal.
+Los residuos sólidos peligrosos serán almacenados temporalmente dentro de la Planta, en un área con piso impermeabilizado y techado, y posteriormente serán dispuestos a través de una EO-RS autorizada hasta un relleno de seguridad.
+Para el traslado del desmonte se usarán volquetes, siendo su disposición final en un relleno autorizado por la Municipalidad. El material de desmonte será protegido por una malla para evitar su dispersión durante su traslado.
+El tratamiento y manejo de los residuos sólidos peligrosos y no peligrosos se realizará de acuerdo a lo establecido en el D.S. N° 014-2017-MINAM, Reglamento del Decreto Legislativo N° 1278, Decreto Legislativo que aprueba la Ley de Gestión Integral de Residuos Sólidos. 
+Riesgo a la salud y accidentes de trabajo 
+El Personal responsable de la ejecución del Plan de Manejo Ambiental de cualquier aspecto relacionado a la aplicación de la normatividad ambiental vigente, deberá continuar con la capacitación y entrenamiento necesario, de tal manera que le permita cumplir con éxito las labores encomendadas, durante los trabajos de abandono. 
+Se continuará realizando charlas breves y periódicas sobre temas relacionados con el medio ambiente, la salud y la seguridad durante los trabajos de abandono al inicio de las actividades. Estas reuniones serán de tipo informativo y deberán tener carácter obligatorio.
+Se consideran restricciones para el personal de operaciones como el uso de armas de fuego, consumo de bebidas alcohólicas, manejo de vehículos fuera de horario de trabajo.
+Todo el personal contará con elementos de protección personal (EPP), tales como: casco, botas punta de acero, guantes, gafas, máscaras protectoras del polvo, protección auditiva, arnés.
+CUADRO RESUMEN
+Actividades 
+Aspectos Ambientales 
+Componente 
+Impacto Ambiental 
+Medidas De Prevencion 
+Tipo De Medida 
+CONSTRUCCIÓN
+Construcción de las obras civiles y mecánicas 
+Instalación de un tanque de almacenamiento de GLP
+Calidad de suelo, Calidad de agua. 
+Generación de material particulado y emisiones gaseosas de combustión.  
+Generación de ruido. 
+Enfermedades y accidentes ocasionados por el trabajo.  
+Suelo,
+ agua,
+aire 
+y 
+salud  
+Alteración de la calidad del suelo.  
+Alteración de la calidad del agua subterránea.   
+Alteración de la calidad del aire. 
+Incremento de los niveles de presión sonora. 
+Riesgo a la salud y accidentes de trabajo  
+Humedecimiento del suelo, accesos circundantes la planta y material de desmonte. 
+Mantenimiento preventivo de los equipos.
+Mantenimiento preventivo de los vehículos, deben contar con silenciadores, no uso indebido del claxon.    
+Los residuos sólidos peligrosos y no peligros serán almacenados temporalmente en un área con piso impermeabilizado para su posterior disposición, final en el relleno municipal y relleno de seguridad. 
+Los efluentes domésticos serán descargados en el pozo séptico    y percolación. 
+Capacitación al personal, charlas breves periódicas, y uso de equipo de protección (protección auditiva, máscaras, guantes, botas punta de acero, cascos).     
+Prevencion y Mitigación 
+OPERACIÓN Y MANTENIMIENTO
+Recepción y Almacenamiento de combustible GLP en la planta. 
+Estacionamiento y tránsito de camiones cisterna de GLP dentro del área de la planta.   
+Envasado, almacenamiento y venta de cilindro de GLP.  
+Calidad de suelo, 
+Calidad de agua, 
+Generación de material particulado y emisiones gaseosas de combustión, emisiones fugitivas de GLP.    
+Generación de ruido. 
+Enfermedades y accidentes ocasionados por el trabajo.  
+Suelo, agua, aire y salud  
+Alteración de la calidad del suelo.  
+Alteración de la calidad del agua subterránea.   
+Alteración de la calidad del aire. 
+Incremento de los niveles de presión sonora. 
+Riesgo a la salud y accidentes de trabajo  
+Humedecimiento del suelo y accesos circundantes a la planta 
+Mantenimiento preventivo de los equipos.
+Mantenimiento preventivo de los vehículos y deben contar con silenciadores, no uso indebido del claxon.    
+Los residuos sólidos peligrosos y no peligros serán almacenados temporalmente en un área con piso impermeabilizado para su posterior disposición, final en el relleno municipal y relleno de seguridad. 
+Los efluentes domésticos serán descargados en el pozo séptico    y percolación.  
+Capacitación al personal, charlas breves periódicas, y uso de equipo de protección (protección auditiva, máscaras, guantes, botas punta de acero, cascos).     
+Prevencion y Mitigación
+Mantenimiento de equipos 
+Calidad de suelo, Calidad de agua. 
+Generación de material particulado y emisiones fugitivas de GLP.   
+Generación de ruido. 
+Enfermedades y accidentes ocasionados por el trabajo.
+Suelo, agua, aire y salud  
+Alteración de la calidad del suelo.  
+Alteración de la calidad del agua subterránea.   
+Alteración de la calidad del aire. 
+Incremento de los niveles de presión sonora. 
+Riesgo a la salud y accidentes de trabajo  
+El mantenimiento se realizará con previa supervisión. 
+Los derrames de fluido del lavado de los equipos serán almacenados en cilindros de metal con tapa. 
+Para el pintado de los cilindros se utilizará una cabina de pintado. 
+Prevencion y Mitigación
+ABANDONO
+Demolición de obras civiles 
+Desmontaje y traslado de equipo metálico, limpieza de equipos  y re nivelación del área 
+Calidad de suelo, Calidad de agua. 
+Generación de material particulado y emisiones gaseosas de combustión.  
+Generación de ruido. 
+Enfermedades y accidentes ocasionados por el trabajo.
+Suelo, agua, aire y salud  
+Alteración de la calidad del suelo.  
+Alteración de la calidad del agua subterránea.   
+Alteración de la calidad del aire. 
+Incremento de los niveles de presión sonora. 
+Riesgo a la salud y accidentes de trabajo  
+Humedecimiento del suelo y material del desmonte. 
+Mantenimiento preventivo de los equipos.
+Mantenimiento preventivo de los vehículos y deben contar con silenciadores, no uso indebido del claxon.    
+Los residuos sólidos peligrosos y no peligros serán almacenados temporalmente en un área con piso impermeabilizado para su posterior disposición, final en y relleno municipal y relleno de seguridad. 
+Los efluentes domésticos serán descargados en el pozo séptico    y percolación. 
+Capacitación al personal, charlas breves periódicas, y uso de equipo de protección (protección auditiva, máscaras, guantes, botas punta de acero, cascos).     
+Prevencion y Mitigación
+Limpieza de equipos.  
+Calidad de agua 
+Componente de agua 
+Alteración del agua subterránea por agua de lavado de equipos 
+Se designará un área con piso impermeabilizado para almacenar el agua de lavado en cilindros de metal para el almacenamiento temporal 
+Prevencion 
+MODIFICACIÓN O ACTUALIZACIÓN DEL PROGRAMA DE MONITOREO (COMPONENTE, FRECUENCIA, UBICACIÓN, PARÁMETROS Y NORMA A CUMPLIR), EN CASO CORRESPONDA.
+El Programa de Monitoreo Ambiental aprobado en el instrumento de gestión ambiental Plan de Manejo Ambiental (PMA) con Resolución Directoral Regional N° 029-2008 – GR- Huánuco de la Dirección Regional de Energía y Mina Gobierno Regional de Huánuco con fecha 31 de Diciembre del 2008 será modificado en relación al número de puntos y parámetros de acuerdo a información técnica y normativa vigente:
+DESCRIPCIÓN DE LOS COMPONENTES DEL PROYECTO 
+Situación actual
+Infraestructura 
+La planta envasadora de GLP se encuentra actualmente instalada en un área aproximada de 5,000.00 m2, luego de la modificación quedará en 4,167.86 m2 la cual está conformada por las siguientes instalaciones:
+Zona de almacenamiento de un (1) tanque superficial horizontal de 10,000 galones de capacidad. 
+Plataforma de envasado y despacho de cilindros de GLP.
+Plataforma de mantenimiento de cilindros de GLP.
+Zona de circulación y estacionamiento
+Área administrativa con sus respectivas divisiones.
+Zona de equipo auxiliares.
+Tableros de control eléctrico.
+Programa de monitoreo ambiental 
+El programa de monitoreo ambiental aprobado en el Plan de Manejo Ambiental PMA, se muestra en el siguiente cuadro:
+CUADRO N° 1
+Monitoreo ambiental aprobado
+Componente 
+Número de
+ puntos
+Coordenadas UTM
+Ubicación 
+Tipo de 
+muestra
+Frecuencia
+Normativa 
+Norte 
+Este
+Aire
+E-01
+8640205
+299807
+A sotavento a 10 metros del tanque de GLP
+Calidad de aire
+Trimestral
+De acuerdo a la normativa vigente
+E-02
+8640200
+299880
+Área de pintado y limpieza de equipo
+E-03
+8640064
+299030
+Zona de almacenamiento de productos químicos
+Ruido Ocupacional
+RO - 01
+7613287
+953105
+Bomba GLP
+Nivel de ruido ocupacional
+Trimestral
+De acuerdo a la normativa vigente
+RO - 02
+9613288
+953106
+Zona de envasado
+RO - 03
+9613292
+953092
+Zona de carga y descarga
+RO - 04
+9613291
+953099
+Zona de pintado
+RO - 05
+9613302
+953107
+Zona de generador eléctrico 
+RO - 06
+9613301
+953095
+Zona de oficinas
+RO - 07
+9613306
+953101
+Bomba de agua 
+Ruido Ambiental
+RA - 01
+7613288
+953107
+A 5m de la puerta principal
+Nivel de ruido ambiental
+Trimestral
+De acuerdo a la normativa vigente
+RA - 02
+7613295
+953101
+Lado carretera al aeropuerto
+RA - 03
+7613287
+853089
+Lado posterior de la planta
+Calidad de agua E04: la muestra de agua que se toma corresponde al efluente domestico cuya disposición final es en la poza de percolación, que forma parte del pozo séptico de la planta. 
+Situación proyectada 
+En el presente Estudio Ambiental se propone realizar la modificación del programa de monitoreo ambiental considerado en el PMA, según el siguiente detalle:
+Programa de monitoreo de calidad de aire
+Objetivo: Eliminar los tres (03) puntos de monitoreo de calidad de aire aprobados, incorporar dos (02) nuevos puntos de monitoreo de calidad de aire y modificar los parámetros de monitoreo de calidad de aire aprobados. 
+Programa de monitoreo propuesto: en el cuadro N° 2 se describen los puntos de monitoreo, su ubicación, la frecuencia de monitoreo y los parámetros a ser monitoreados.
+CUADRO N° 2
+Monitoreo de calidad de aire propuesto
+Puntos 
+Coordenadas UTM WGS 84
+Ubicación
+Frecuencia
+Parámetros
+Norma de referencia
+Norte 
+Este
+CA-1
+8907020.34 
+366062.54 
+A barlovento próximo al lindero posterior de la planta lado sur.
+Trimestral
+- Dióxido de azufre (SO2)- Sulfuro de hidrógeno (H2S)- Material particulado (PM10 y PM2.5)
+DS N° 003-2017-MINAM
+CA-2
+ 
+8907050.44
+ 
+366100.70 
+A sotavento, próximo  al lindero de la planta, lado norte.
+Programa de monitoreo de ruido
+Objetivo: Eliminar los siete (7) puntos de monitoreo de ruido ocupacional aprobados y un (01) punto de ruido ambiental e incorporar dos (2) nuevos puntos de monitoreo de ruido ambiental.
+Programa de monitoreo propuesto: En el Cuadro N° 3 se describen los puntos de monitoreo, su ubicación, la frecuencia de monitoreo y los parámetros a ser monitoreados. 
+CUADRO N° 3
+Monitoreo de ruido propuesto 
+Puntos 
+Coordenadas UTM WGS 84
+Ubicación
+Frecuencia
+Parámetros
+Norma de referencia
+Norte 
+Este
+R-1
+ 8907054.74
+366096.79
+A 5 m de la puerta principal, lado norte permanecen en el mismo lugar.  
+Trimestral
+dB (A) - LaeqT (diurno y nocturno)
+DS N° 085-2003-PCM
+Zona Comercial
+70 dB (A) 
+R-2
+ 8907068.53
+366062.35
+Punto medio  del lindero colindante con  área  de  otros usos, lado oeste.Punto nuevo  
+R-3
+ 8907007.15
+366107.06
+Punto medio  del lindero posterior de la planta, lado oeste.Permanecen en el mismo lugar.
+R-4
+ 8907026.86
+366056.61
+Lado medio del lindero posterior de la planta, lado sur.Punto nuevo.
+Sobre el particular corresponde señalar que la modificación del programa de monitoreo ambiental propuesta es concordante con lo presentado en el Anexo N° 07 “Plano del Programa de Monitoreo Ambiental Modificado”. Lámina N° M – 01.
+Cronograma de ejecución:
+El monitoreo de la calidad del aire y de ruido se seguirá realizando con una frecuencia trimestral de acuerdo a lo considerado en su PMA aprobado.
+EVALUACIÓN
+Instrumento de Gestión Ambiental aprobado
+La actividad de hidrocarburos realizada por el Titular en la planta envasada cuenta con el “Plan de Manejo Ambiental de la planta envasada de GLP” aprobado mediante Resolución Directoral N° 029-2008-GL Huánuco de la Dirección Regional de Energía y Minas – Gobierno Regional de Huánuco     de fecha, 31-12-2008 instrumento de gestión ambiental vigente. 
+Sustento del supuesto
+El proyecto se encuentra bajo el supuesto de modificación del programa de monitoreo.
+Respecto a la modificación del programa de monitoreo del componente aire. 
+Eliminar los tres (03) puntos de monitoreo de calidad de aire aprobados.
+Se propone eliminar los tres (03) puntos de monitoreo de calidad de aire aprobados en su instrumento de gestión ambiental vigente, para lo cual se presenta la siguiente justificación.
+CUADRO N° 4
+Justificación de la eliminación de los puntos de monitoreo de calidad de aire
+Punto de Monitoreo 
+Criterios
+Criterios específicos 
+Criterios generales 
+Punto de monitoreo: E-01
+Ubicación: A 10 metros del tanque de GLP
+Las referidas estaciones se encuentran en zonas de circulación vehicular dentro de la planta establecimiento de servicio, lo cual afecta la continuidad del monitoreo. Asimismo, la continuidad del monitoreo. Ello supone una exposición al riesgo de choques o volcadura de los equipos de medición.Asimismo. El referido punto se encuentra en una zona de alta criticidad, lo cual representa un riesgo de explosión, ya que los equipos de monitoreo presentan conexiones eléctricas. 
+El instrumento de gestión ambiental aprobado no menciona el criterio técnico utilizado para la determinación de la ubicación y cantidad de puntos establecidos.
+Respecto del norte magnético y dirección del viento predominante, existen errores en su determinación. Ello debido a que no se indicó el norte geográfico en el plano de monitoreo del PMA. La dirección del viento predominante no se encuentra acorde a la masa de aire de la ciudad de Lima, que presenta como predominancia general los vientos provenientes del sur – sur oeste.    
+ 
+Punto de monitoreo: E - 02 
+Ubicación: Área de pintado y limpieza de equipo.
+La referida estación se encuentra en zona de trabajo, dentro de la planta, lo cual afecta la continuidad del monitoreo.
+Además, dichos puntos se encuentran en una zona altamente crítica, lo cual representa un riesgo de exposición, ya que los equipos de monitoreo presentan conexiones eléctricas. 
+Punto de monitoreo E-03 
+Ubicación; zona del almacenamiento de productos químicos 
+ Idem anterior 
+En razón a lo expuesto, el Titular propone eliminar los tres 03 puntos de monitoreo de calidad de aire aprobados, lo cual es justificado por las razones técnicas ambientales expuestas. 
+Incorpora dos (2) nuevos puntos de monitoreo de calidad de aire
+Se propone incorporar dos (2) nuevos puntos de monitoreo de calidad de aire en coordenadas UTM WGS 84, para lo cual presentó la siguiente justificación.
+CUADRO N° 5
+Justificación de la incorporación de los nuevos puntos de monitoreo de calidad de aire
+Punto de Monitoreo 
+Criterios 
+Criterios
+Criterios
+Punto de Monitoreo: CA-1Ubicación: Barlovento
+Se ubica de acuerdo a la dirección del viento predominante a barlovento, con la finalidad de determinar la calidad de aire que ingresa a la planta.
+Su ubica en un ambiente libre de obstáculos para no modificar la dirección del viento.
+Su ubicación permite la continuidad del monitoreo en el lapso de tiempo requerido y existe un menor riesgo de choque, volcadura del equipo de monitoreo u otras incidencias peligrosas. El cercado del área de monitoreo (mediante conos) se podrá realizar sin alterar el tránsito ventricular.
+La dirección del norte magnético se verificó mediante el programa informático Google Earth, la cual coincide con lo establecido en el plano de monitoreo aprobado en el PMA. Lo señalado fue consignado conforme a la información referencial obtenida en las estaciones de monitoreo cercanas del Servicio Nacional del Hidrología y Meteorología – Senamhi.
+Punto de Monitoreo: CA-2Ubicación: Sotavento
+Se ubica de acuerdo a la dirección del viento predominante a sotavento, con la finalidad de determinar la calidad de aire que egresa de la planta considerando las posibles emisiones fugitivas que se escapan durante las unidades de recepción, almacenamiento y envasado.
+Se ubica en un ambiente libre de obstáculos que no modifique la dirección del viento.
+Su ubicación permite la continuidad de monitoreo en el lapso de tiempo requerido y con el menor riesgo de choque, volcadura en contra del equipo de monitoreo u otras incidencias peligrosas.  
+Conforme a lo expuesto se propone establecer dos (2) puntos de monitoreo de calidad de aire considerando la dirección del viento (barlovento y sotavento), lo cual es justificado por las dimensiones y superficies de la planta envasadora de GLP.
+Modificar los parámetros de monitoreo de calidad de aire aprobados 
+El Titular propone modificar los parámetros de monitoreo de calidad de aire aprobados en su instrumento de gestión ambiental vigente por las razones que se exponen a continuación.
+CUADRO N° 6
+Justificación de la modificación de los parámetros de monitoreo de calidad de aire aprobados.
+Parámetros
+No se continuará su monitoreo 
+Si se continuará su monitoreo
+Relacionado a la actividad de comercialización de combustibles
+Justificación 
+Dióxido de carbono (CO)
+X
+NO
+Dicho parámetro es producido por la combustión incompleta de los compuestos carbonados (leña, carbón, parafina, petróleo) y generado – especialmente – por las emisiones vehiculares.
+No corresponde ser monitoreado toda vez que en la planta envasadora no se realizan procesos de combustión (completa e incompleta). Las instalaciones funcionan con energía eléctrica. En tal sentido, el referido parámetro no está relacionado a la actividad de la planta. 
+Dióxido de nitrógeno (NO2) y oxido de nitrógeno (NOx) 
+X
+NO
+Dicho parámetro se forma como subproducto en todas las combustiones realizadas a altas temperaturas en los procesos de combustión en los vehículos motorizados y las plantas eléctricas.
+No corresponde ser monitoreado toda vez que en la planta envasadora se realizan procesos de combustión (completa e incompleta). Las instalaciones funcionan con energía eléctrica. En tal sentido el referido parámetro no está relacionado a la actividad de recepción, almacenamiento y envasado de GLP. El NOx es la formulación General.  
+Hidrocarburos totales (HCT) 
+X
+NO
+Los parámetros de benceno (C6H6) e Hidrocarburos totales expresados como hexano (C6H14) regulados en la norma de calidad de Aire, no se encuentran dentro de la cadena de carbonos del GLP (3-(4) razón por la cual no deberían ser monitoreados para las actividades de recepción, almacenamiento y envasado de GLP.
+Benceno
+X
+NO
+Los parámetros de benceno (C6H6) e Hidrocarburos totales expresados como hexano (C6H14) regulados en la norma de calidad de Aire, no se encuentran dentro de la cadena de carbonos del GLP (3-(4) razón por la cual no deberían ser monitoreados para las actividades de recepción, almacenamiento y envasado de GLP.
+Material Particulado (PM10)
+x
+Si
+Dicho parámetro se forma a partir de la transformación de emisiones gaseosas, como los óxidos de azufre, nitrógeno y los compuestos orgánicos volátiles, en contaminantes secundarios.
+Las emisiones fugitivas durante la descarga se almacenan y envasado de combustible GLP generan la emisión de azufre compuestos orgánicos volátiles. Por lo tanto, el referido parámetro se encuentra relacionado a la actividad de recepción, almacenamiento y envasado en la planta envasadora.
+Sulfuro de hidrogeno (H2S)
+X
+SI
+Se consideró la recomendación de la Dirección de Supervisión del Organismo de Evaluación y Fiscalización Ambiental prevista en el informe N° 050-2014-OEFA/DS-HID que señaló que dicho parámetro se encuentra presente en las pérdidas de la evaporación GLP por consiguiente, el referido parámetro se encuentra relacionado a la actividad de comercialización de combustibles desarrollada en la planta de envasado de GLP. También se  considera el informe de la OEFA N° 050-2014-OEFA/DSHID 
+Asimismo, se propone monitorear parámetros adicionales a los establecidos en su PMA, conforme a lo siguiente:
+CUADRO N° 7
+Justificación de parámetros a ser incorporados en el programa de monitoreo de calidad de aire
+Parámetros para monitoreo de calidad del aire
+Relacionados a la actividad de comercialización de combustible GLP 
+Justificación 
+Material Particulado (PM2.5)
+SI
+Dicho parámetros se forma a partir de la transformación de emisiones gaseosas, como los óxidos de azufre, nitrógeno y los compuestos orgánicos volátiles, en contaminantes secundarios. 
+ Las emisiones fugitivas emitidas en la planta envasadora recepción, almacenamiento y envasado de GLP, genera la emisión compuesta de azufre y gases de propano, butano, por lo tanto, el referido parámetro se encuentra relacionado a la actividad de envasado de GLP. También se considera el informe de la OEFA N° 050-2014-OEFA/DS-HID.    
+Dióxido de azufre (SO2)
+SI
+Se consideró la recomendación de la Dirección de Supervisión del Organismo de Evaluación y Fiscalización Ambienta (OEFA) l prevista en el informe N° 050-2014-OEFA/DS-HID que señaló que dicho parámetro se encuentra presente en las pérdidas de la evaporación GLP por consiguiente, el referido parámetro se encuentra relacionado a la actividad de comercialización de combustibles desarrollada en la planta de envasado de GLP.
+Conforme a lo expuesto, el Titular propone monitorear la calidad de aire en la Planta envasadora de GLP respecto de los parámetros de Dióxido de azufre (SO2) Material Particulado PM10, Material Particulado PM2.5 el Hidrógeno Sulfurado (H2S), lo cual es justificado por la naturaleza de las actividades que se realiza en la planta envasadora de GLP.
+(ii) Respecto a la modificación del programa de monitoreo de ruido
+Eliminar los siete (7) puntos de monitoreo ocupacional aprobado 
+Eliminar un (01) punto de monitoreo de ruido ambiental aprobado. 
+A continuación, se presenta la siguiente justificación:
+CUADRO N° 8
+Justificación de la eliminación de los puntos de monitoreo de ruido aprobados. 
+Ruido Ocupacional 
+Puntos de Mercurio
+Criterios
+Criterios
+Ruido Ocupacional
+RO – 01
+Bomba GLP
+Dicho monitoreo corresponde a un monitoreo de ruido ocupacional debido a que la medición se realiza dentro de un área de trabajo, el cual podría afectar a los trabajadores de la planta. 
+El instrumento de gestión ambiental aprobado no indica el criterio técnico utilizado para la determinación de la ubicación y cantidad de puntos establecidos. 
+RO – 02
+Zona de envasado
+RO – 03
+Zona de carga y descarga
+RO – 04
+Zona de pintado 
+RO – 05
+Zona de generador eléctrico 
+RO – 06
+Zona de oficinas
+RO – 07
+Bomba de agua 
+Ruido Ambiental
+Punto de Monitoreo 
+Criterios
+Punto de Monitoreo: RA-1Ubicación: a 5 de la puerta principal  
+Se consideró el criterio ambiental de la ubicación de las estaciones de monitoreo de ruido mayor a tres (03) metros de cualquier fuente de generación, punto de descarga, entre otros de ruido.
+Su ubicación fue establecida en un ambiente libre de obstáculos que no modifique la dirección del viento.
+Su ubicación permite la continuidad de monitoreo en el lapso de tiempo requerido y con menor riesgo de choque, volcadura en contra del equipo de monitoreo u otras incidencias peligrosas.
+El punto permanecerá en el mismo lugar.
+Punto de Monitoreo: RA-2Ubicación: lado carretero al aeropuerto
+Este punto se deberá cambiar de ubicación debido a que la planta ya no limita con la carretera al aeropuerto sino con el área de otros usos.
+Punto de Monitoreo RA-3 
+Ubicación: lado
+Posterior de la planta  
+Se consideró el criterio ambiental de la ubicación de las estaciones en monitoreo de ruido mayor a tres (03) metros de cualquier fuente de generación, punto de descarga, entre otros de ruido.
+Su ubicación fue establecida en un ambiente libre de obstáculos que no modifique la dirección del viento.
+Su ubicación permite la continuidad de monitoreo en el lapso de tiempo requerido y con menor riesgo de choque, volcadura en contra del equipo de monitoreo u otras incidencias peligrosas.
+El punto permanecerá en el mismo lugar.
+En razón a lo expuesto, el Titular propone eliminar un (01) punto de monitoreo de ruido aprobado (RA-2), lo cual es justificado por las razones técnicas ambientales expuestas. 
+Incorporar dos (02) nuevos puntos de monitoreo de ruido ambiental 
+Se propone incorporar dos (02) nuevos puntos de monitoreo de ruido ambiental en coordenadas UTM WGS 84, para lo cual se presenta la siguiente justificación. 
+CUADRO N° 9
+Justificación de la incorporación de nuevos puntos de monitoreo de ruido
+Punto de Monitoreo
+Criterios
+Punto de Monitoreo: RA - 2Ubicación: Punto medio del lindero colindante con el área de otros usos lado oeste.
+Se consideró el criterio ambiental de la ubicación de las estaciones de monitoreo de ruido mayor a tres (3) metros de cualquier fuente de generación (plataforma envasado, punto de descarga, entre otros) de ruido.
+Su ubicación fue establecida en un ambiente libre de obstáculos que no modifique la dirección del viento.
+Su ubicación permite la continuidad de monitoreo en el lapso de tiempo requerido y con menor riesgo de choque, volcadura en contra del equipo de monitoreo u otras incidencias peligrosas.
+Punto de Monitoreo: RA-4Ubicación: Punto medio del lindero posterior de la planta, lado sur. Punto nuevo.
+Se consideró el criterio ambiental de la ubicación de las estaciones de monitoreo de ruido mayor a tres (3) metros de cualquier fuente de generación (plataforma envasado, punto de descarga, entre otros), de ruido.
+Su ubicación fue establecida en un ambiente libre de obstáculos que no modifique la dirección del viento.
+Su ubicación permite la continuidad de monitoreo en el lapso de tiempo requerido y con menor riesgo de choque, volcadura en contra del equipo de monitoreo u otras incidencias peligrosas. 
+Por lo expuesto, el titular propone incorporar dos (02) nuevos puntos de monitoreo de ruido ambiental, lo cual es justificado por las dimensiones, numero de fuentes generadoras de ruido y superficies reflectantes del patio de maniobras donde se realizan las actividades de la planta envasadora los puntos de monitoreo de ruido se ubicarán de forma representativa en la planta envasadora considerando la dirección del viento y una distancia mayor a (3) metros de cualquier fuente de generación de ruido (punto de descarga de GLP, envasado etc.).  
+(iii) Respecto a la modificación del programa de monitoreo del efluente doméstico de la planta debido a que tiene como destino el pozo séptico ubicado en el interior de la planta, es decir no se vierte a ningún cuerpo receptor y según la normativa nacional no contempla límites permisibles para efluentes domésticos vertidos a pozo séptico. Por lo tanto, el monitoreo de efluentes domésticos será eliminado.
+En el Anexo N° 7 se adjunta el Plano del Programa de Monitoreo Ambiental Modificado– Lámina N° M-01, donde se indican las estaciones de los puntos de monitoreo de aire y ruidos en coordenadas UTM referidos al sistema WGS84.
+INCORPORACIÓN, ACTUALIZACIÓN O MODIFICACIÓN DEL PLAN DE CONTINGENCIAS PARA EL PROYECTO DE MODIFICACIÓN Y AMPLIACIÓN O UNA MEJORA TECNOLÓGICA, EN CASO CORRESPONDA
+Al respecto es necesario indicar que el plan de contingencia con que cuenta actualmente la planta será actualizado según los requerimientos de equipamiento y otros, por la instalación del tanque nuevo de 13,900 galones. Sera presentado a OSINERMING para su evaluación respectiva.  
+INCORPORACIÓN, ACTUALIZACIÓN O MODIFICACIÓN DEL ESTUDIO DE RIESGOS PARA EL PROYECTO DE MODIFICACIÓN Y AMPLIACIÓN O UNA MEJORA TECNOLÓGICA, EN CASO CORRESPONDA
+Al respecto es necesario indicar que el estudio de riesgos será actualizado de acuerdo a la instalación del nuevo tanque de 13,900 galones donde se indicará el nuevo diseño del sistema de agua contra incendios y será presentado a OSINERMING para su evaluación.  
+PLAN DE ABANDONO A NIVEL CONCEPTUAL DE LAS ACTIVIDADES Y COMPONENTES PROPUESTAS DEL ITS.
+Generalidades
+Todas las medidas que se adoptan en el presente Plan de Abandono tenderán a devolver las condiciones que originalmente se encontraban en el ambiente, antes del inicio de las actividades en el área del Proyecto de Modificación.  Los lineamientos que han definido la elaboración del presente Plan de Abandono, están contenidos en el Reglamento para la protección Ambiental en las Actividades de Hidrocarburos D.S. Nº 039-2014-EM, entre los principales objetivos se establecen:
+Recuperar todo el material empleado en construcciones que sea ajeno al ecosistema de las áreas involucradas.
+Restituir las condiciones geográficas y estéticas naturales propias de las áreas.
+Recuperar el equipo, maquinaria y material de trabajo de estas áreas.
+Medidas a Tomar
+El Plan de Abandono consiste en la elaboración de un conjunto de medidas orientadas, en el mejor de los casos, a llevar el lugar geográfico usado a su estado original o normal.
+Requerimientos
+Para que el Plan de Abandono sea eficiente y eficaz es necesario que considere los siguientes requerimientos:
+Desarrollar un plan de retiro.
+Retirar o asegurar todas las estructuras sobre la superficie.
+Retirar, recuperar o asegurar el aislamiento y/o tratamiento de materiales contaminados, tanto en el lugar como fuera de éste, utilizando los criterios de limpieza específicos al lugar.
+Limpieza del lugar a un nivel que proporcionará protección ambiental a largo plazo, quedando seguro para futuros usos planificados.
+Rehabilitación de áreas perturbadas a una condición consistente con el uso futuro del terreno y/o a un estado natural.
+Estar sujeto a verificación de su total cumplimiento a través de una supervisión en forma directa del desenvolvimiento de las labores de abandono dentro de las medidas ambientales apropiadas y al mismo tiempo, mediante una auditoría ambiental a realizarse luego de finalizado el abandono.
+Comunicar a las autoridades OEFA y DGAAE, respecto del término de las actividades y presentar el informe del Plan de Abandono.
+La ejecución del Plan de Abandono involucra las acciones ambientales a seguir para el cumplimiento de terminación de actividades y el retiro de instalaciones provisionales inherentes al desarrollo del Proyecto.
+Secuencia de Acción
+A continuación, se desarrollará una guía para la terminación de las diferentes Actividades que Involucra el Proyecto, con la finalidad de dar cumplimiento a la Legislación Ambiental vigente.
+Según la decisión que se adopte sobre el destino final de las instalaciones, se consideran los aspectos que deben ser involucrados en la preparación del Plan de Abandono, comprendiendo las siguientes acciones:
+Acciones Previas
+La decisión de abandonar las instalaciones existentes y actividades relacionadas con la Planta envasadora requiere de las acciones que se indican a continuación:
+Definición de los límites de las instalaciones.
+Capacitación para el cuidado y mantenimiento de las instalaciones.
+Valorización de los activos y pasivos.
+Análisis de costo y beneficio.
+Retiro de las Instalaciones
+El retiro de las instalaciones deberá considerar las acciones siguientes:
+Actualización de los planos de las obras civiles y de las ubicaciones de los equipos y maquinarias.
+Inventario de los equipos y sus condiciones de conservación. 
+Inventario de las estructuras metálicas y equipos.
+Metrado de las excavaciones para el retiro de las líneas de combustibles, líneas eléctricas y otros que se encuentran enterrados.
+Desmontaje de los tanques, compresores, maquinarias, equipos y tuberías existentes, etc. 
+Demolición de obras civiles.
+Excavaciones, movimiento de tierras rellenos y nivelaciones.
+Restauración del Lugar
+El Plan de restauración deberá analizar y considerar las condiciones originales del área y tendrá que ser planificado de acuerdo al destino final del terreno.
+Para la restauración se deben tomar en cuenta:
+Descontaminación del suelo.
+Limpieza y nivelación de la superficie del terreno.
+Adecuación al nuevo uso del terreno.
+Propuesta de un Plan de Abandono
+En este aspecto hay que considerar que existen los siguientes tipos de abandono de las instalaciones:
+Abandono Parcial
+Abandono Total
+Descripción del Plan de Abandono Total  de Actividades de las Principales Instalaciones
+Demolición de Obras Civiles
+El retiro de estas instalaciones será efectuado de acuerdo a los siguientes lineamientos:
+Desmontar las instalaciones y trasladar a lugares previstos para este fin.
+Si se comprobara la existencia de residuos sólidos, peligrosos, aguas contaminadas con combustibles u otros, estos deberán ser removidos durante el retiro y almacenados adecuadamente para posteriormente sean retirados por una EO-RS en un relleno de seguridad.
+Recuperación de escaleras, barandas, etc.
+Recuperar todas las instalaciones eléctricas, equipo de comunicaciones, etc.
+Demolición del piso de concreto y base del tanque de GLP
+Devolver la superficie de la tierra a su condición natural o a su uso deseado y aprobado.
+Desmontaje y traslado de equipos metálicos
+Las tuberías serán drenadas y purgadas antes de ser desconectadas y removidas del sitio.
+Desplazar con agua los hidrocarburos que han quedado almacenados en las tuberías asociadas y recuperar estos fluidos en tanques, evitando en lo posible hacerlos en tinas o pozas.
+Los tanques y tuberías antes de ser abandonadas, deberán se inspeccionadas para determinar fugas o perdidas de producto.
+Cuando las tuberías han tenido fugas y hayan contaminado el área circundante, esta contaminación será eliminada durante el retiro de la instalación.
+Antes de realizar el desmontaje de los tanques y tuberías, compresores, electrobombas y accesorios, realizar pruebas de explosividad, e iniciar el trabajo cuando el explosímetro marque cero (0).
+Retiro de las instalaciones eléctricas.
+Desconectar totalmente las tuberías afectadas de los sistemas de transferencia y recepción.
+Recuperar la tubería averiada en lo posible.
+Restauración de áreas afectadas.
+Limpieza y nivelación del área
+Luego de desmontado el tanque de GLP y equipos y accesorios se procederá con la limpieza, lavado interno del tanque de GLP y demás accesorios luego será comercializado por una EO-RS para su disposición final o también podrá ser reusado previa inspección técnica.
+Se procederá con el retiro del desmonte y la nivelación del terreno hasta dejarlo en su estado natural.
+Garantía de Seriedad de Cumplimiento
+Según el Artículo 100°, conjuntamente con la presentación de la solicitud de aprobación del plan de abandono, el Titular de la Planta Envasadora deberá otorgar la Garantía de Seriedad de Cumplimiento (Carta Fianza) de los compromisos contenidos en dicho plan.
+Suspensión Temporal de Actividades
+Sucede cuando el Titular decide suspender temporalmente todo o en parte las actividades de la Planta Envasadora.
+De suceder (según el Artículo 97°), se deberá informar previamente a la autoridad ambiental competente y a la autoridad competente en materia de fiscalización ambiental, proponiendo la duración de la suspensión y adjuntando el compromiso de cumplir con las medidas establecidas en su instrumento de gestión ambiental aprobado, a fin de asegurar la calidad ambiental y la prevención y control de incidentes por el tiempo que dure dicha suspensión.
+El reinicio de las actividades se realizará informando previamente a la autoridad competente en materia de fiscalización ambiental.
+Abandono Parcial
+De acuerdo a los Artículos 98°, 99° y 102°, procede la presentación de un plan de abandono parcial, cuando el Titular de la Planta Envasadora decida abandonar determinadas instalaciones de su actividad, en el presente caso podría ser un (01) tanque de almacenamiento de GLP.
+Por otro lado, cuando el Titular de la Planta Envasadora haya dejado de operar parte de las instalaciones, así como la infraestructura asociada por un periodo superior a un año, corresponde la presentación de un plan de abandono parcial bajo responsabilidad administrativa sancionable por la autoridad de fiscalización ambiental.  Esta obligación no afecta el deber previo del Titular de comunicar el cese de sus actividades a la autoridad ambiental competente.
+El abandono parcial no requiere de garantía de seriedad de cumplimiento. 
+CONCLUSIONES DEL ITS AFIRMANDO ENCONTRARSE EN UNO DE LOS SUPUESTOS SEÑALADOS EN EL ARTÍCULO 40 DEL DECRETO SUPREMO N° 039-2014-EM.
+Las modificaciones propuestas en el ITS en conjunto, implican impactos ambientales negativos no significativos.
+Las modificaciones propuestas en el presente Proyecto están comprendidos dentro de lo que establece el Artículo 40° del D.S. N° 039-2014-EM.
+Las medidas de manejo ambiental propuestas para prevenir o controlar los impactos en la etapa de construcción y operación se ha actualizado a lo aprobado en el PMA con Resolución Directoral Regional N° 029-2008-GR-Huanuco con fecha 31 de Diciembre del 2008. 
+ANEXOS
+ANEXO N° 01
+Vigencia de Poder del Representante Legal
+ANEXO N° 02
+Curriculum Vitae de los profesionales y Certificados de habilidad
+ANEXO N° 03
+Documentos de Osinergmin, Resolución de aprobación del IGA (PMA) y Certificado de zonificación
+ANEXO N° 04
+Plano de Ubicación Situación y Distribución Actual
+ANEXO N° 05
+Plano del Proyecto de Modificación Ampliación
+ANEXO N° 06
+Cronograma ITS
+CRONOGRAMA DE ACTIVIDADES ITS
+ETAPA DE CONSTRUCCION 
+Meses
+1
+2
+3
+4
+5
+Construcción  de obras  civiles y mecánicas 
+x
+x
+x
+x
+Instalación de tanque  de almacenamiento para GLP 
+x
+x
+ETAPA DE OPERACIÓN Y MANTENIMIENTO 
+1.- Recepción y almacenamiento de Combustible de GLP en la planta 
+2.-Estacionamiento y tránsito del camión cisterna GLP dentro del área de la planta. 
+3.- Envasado, almacenamiento y venta de cilindros de GLP 
+4.- Mantenimiento de equipos 
+ETAPA DE ABANDONO 
+1.- Demolición de obras civiles 
+2.- Desmontaje y traslado de equipos metálicos, limpieza y nivelación del área.  
+3.- Clausura y abandono de planta de GLP  
+ 
+ANEXO N° 07
+Plano del Programa de Monitoreo Ambiental Modificado

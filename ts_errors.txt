@@ -1,0 +1,6 @@
+﻿src/app/(main)/inspections/page.tsx(6,32): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+src/features/inspections/components/InspectionTable.tsx(13,8): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+src/lib/supabase/server.ts(15,16): error TS7006: Parameter 'cookiesToSet' implicitly has an 'any' type.
+src/lib/supabase/server.ts(17,37): error TS7031: Binding element 'name' implicitly has an 'any' type.
+src/lib/supabase/server.ts(17,43): error TS7031: Binding element 'value' implicitly has an 'any' type.
+src/lib/supabase/server.ts(17,50): error TS7031: Binding element 'options' implicitly has an 'any' type.
